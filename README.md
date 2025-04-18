@@ -1,5 +1,5 @@
 
-# 📦 C-Sharp: Predictive Framework for Grocery Supply Chain Optimization
+# 📦 Predictive Framework for Grocery Supply Chain Optimization
 
 ## 🚀 Project Overview
 
