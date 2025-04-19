@@ -21,7 +21,7 @@ The goal: reduce **stockouts**, minimize **overstocking**, and enhance **custome
 - **`inventory_planning.ipynb`**: Jupyter notebook for SKU-level demand forecasting and inventory planning.
 - **`Order_probabilities.csv.zip`**: Final prediction results with customer-wise order probabilities.
 - **`customer_item_prediction_14_days.csv`**: Forecasted daily SKU quantities per customer for the upcoming 14 days.
-- **`inventory_14_days_FINAL.csv.zip`**: Aggregated inventory requirement plan for the next two weeks.
+- **`inventory_14_days_FINAL.csv`**: Aggregated inventory requirement plan for the next two weeks.
 - **`order_probs.py`**: Script wrapping the customer order prediction model for local or automated execution. Outputs a .csv file with order probabilities for each customer.
 - **`inventory.py`**: Script wrapping the item order prediction model and inventory planning for local or automated execution. Outputs two .csv files, with forecasted daily SKU quantities per customer and aggregated inventory requirement plan for the upcoming 14 days.
 
