@@ -92,21 +92,31 @@ Design a predictive framework to:
 - **Lag Features**: Lag 1/7/14 days
 - **Stock Signals**: Lead time, stockouts, average quantity/order
 
+### 🔍 Algorithms & Evaluation Metrics
+
 #### Algorithms:
-- **LightGBM**, **XGBoost**
+- **CatBoost Regressor**
+- **Prophet**
+- **Holt-Winters**
 
 #### Evaluation Metrics:
-- **LightGBM**
-  | Dataset     | MAE   | RMSE   | R²     |
-  |-------------|-------|--------|--------|
-  | Train Set   | 2.10  | 77.08  | 0.6069 |
-  | Test Set    | 1.48  | 23.84  | 0.8813 |
 
-- **XGBoost**
-  | Dataset     | MAE   | RMSE   | R²     |
-  |-------------|-------|--------|--------|
-  | Train Set   | 1.50  | 34.64  | 0.9206 |
-  | Test Set    | 2.00  | 27.04  | 0.85   |
+- **CatBoost Regressor**
+  | Dataset     | MAE    | RMSE   | R²     |
+  |-------------|--------|--------|--------|
+  | Train Set   | 0.2151 | 0.4013 | 0.5204 |
+  | Test Set    | 0.2380 | 0.4588 | 0.2694 |
+
+- **Prophet**
+  | Dataset     | MAE    | RMSE   | R²        |
+  |-------------|--------|--------|-----------|
+  | Overall     | 4.5445 | 6.2780 | -130.4701 |
+
+- **Holt-Winters**
+  | Dataset     | MAE    | RMSE   | R²       |
+  |-------------|--------|--------|----------|
+  | Overall     | 9.9354 | 15.8732| -15.5190 |
+
 
 ---
 
