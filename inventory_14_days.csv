@@ -1,206 +1,667 @@
-item_name,warehouse_id,predicted_quantity
-Adani Mota Besan,1,25.58
-Arhar Dal,1,143.16
-Arrarot,1,2.75
-Ashok Kitchen King Masala Pkt(100gm),1,8.4
-Bail Kolhu Pouch,1,36.73
-Bawarchi Chhoti Soyabadi,1,5.49
-Bawarchi Vanaspati Pouch 1ltr,1,72.68
-Bawarchi Vanaspati Tin(15Kg),1,2.67
-Chana Dal,1,203.35
-Chhola,1,70.96
-DCM Double Filter Sugar,1,127.33
-Fortune Soya Pouch(1L),1,243.41
-Fortune Soya Tin(15L),1,369.03
-Hari Patti Selha Rice,1,7.2
-Hari Patti(Green) Rice,1,879.9
-KN Gold Maida,1,126.65
-Kezar Aata,1,1523.84
-Kezar Maida,1,604.74
-Kings Soya Pouch,1,200.3
-Kohinoor Tandoori Aata,1,60.410000000000004
-Laal Gulaab Maida,1,163.42
-Laal Gulaab Suji/Rava,1,40.4
-Mahakosh Mustard Oil Pouch (1L),1,34.11
-Mahakosh Soya Oil Pouch(1L),1,854.54
-Maharaja Chakki Aata,1,149.17000000000002
-Matar,1,195.29
-Nature Fresh Soya Tin(15L),1,7.710000000000001
-Normal Sugar,1,1212.1200000000001
-Oil Ruchi Gold Palm Pouch (770Gm),1,5.62
-Om Mahakaaleshwar Maida,1,40.28
-Peanut,1,5.38
-Prakash Aata,1,284.1
-Prakash Maida,1,989.36
-Pukhraj Arhar Dal,1,1129.5200000000002
-Raag Gold Palm Pouch,1,347.0
-Red Malka Masoor,1,4.5
-Rice Deepak Resort basmati,1,38.7
-Ruchi Gold Palm Pouch(1L),1,136.55
-Saccha Heera Chhola,1,98.72
-Shreshtha Aata,1,2318.46
-Soyum Soya Pouch,1,1052.05
-Soyum Soya Tin(15L) V,1,5524.74
-Steam Rice,1,635.99
-Swastik maida,1,38.99
-Tata Salt Pkt(1Kg),1,215.95
-Adani Mota Besan,2,60.040000000000006
-Adani Patla Besan,2,119.19
-Arrarot,2,53.980000000000004
-Atish Maida,2,45.83
-Bail Kohlu Mustard Bottle(2L),2,6.55
-Bail Kolhu Pouch,2,354.04
-Bawarchi Soya Tin(15Kg),2,41.39
-Bawarchi Vanaspati Balti KG,2,45.18
-Bawarchi Vanaspati Pouch 1ltr,2,89.67
-Bawarchi Vanaspati Tin(15Kg),2,55.91
-DCM Double Filter Sugar,2,846.57
-Fortune Maida,2,6.56
-Fortune Soya Pouch(1L),2,332.74
-Fortune Soya Tin(15L),2,59.99
-Fryola Palm,2,653.8499999999999
-Hari Patti Selha Rice,2,2.29
-Kaali Mirch Khada,2,4.78
-Kezar Aata,2,5.08
-Kezar Maida,2,8.22
-Kings Soya Pouch,2,170.08
-Kings Soya Tin(15Kg),2,7.86
-Kohinoor Tandoori Aata,2,101.05
-Laal Gulaab Maida,2,4222.95
-Laal Gulaab Mill Aata,2,15.2
-Laal Gulaab Suji/Rava,2,279.66
-Laal Mirch Sabut,2,5.21
-Local Sugar,2,5.62
-Maggie Noodles,2,2.62
-Mahakosh Soya Oil Pouch(1L),2,9.98
-Malai Maida,2,55.06999999999999
-Masoor Dal,2,2.18
-Matar,2,4.32
-Nature Fresh Soya Tin(15L),2,93.83
-Nepali Soya,2,874.02
-Nepali Soya Pouch,2,77.94
-Nepali Soya Tin,2,27.610000000000003
-Normal Sugar,2,1837.32
-Nourish Sunflower Pouch,2,45.1
-Oil Ruchi Gold Palm Pouch (770Gm),2,13.81
-Pani (500 Ml),2,15.93
-Prakash Aata,2,1914.6100000000001
-Prakash Maida,2,668.82
-Pukhraj Arhar Dal,2,2.33
-RICE BASMATI BIRYANI,2,1.61
-Ruchi Ghee Pouch (1L),2,14.35
-Ruchi Gold Palm Pouch(1L),2,58.660000000000004
-SODA CHINI (1KG) सोडा,2,8.13
-Saccha Heera Chhola,2,1.75
-Shreshtha Aata,2,217.14999999999998
-Soyum Soya (15Lit),2,889.07
-Soyum Soya Pouch,2,75.75999999999999
-Steam Rice,2,18.93
-Surabhi Maida,2,60.63
-Tata Salt Pkt(1Kg),2,58.760000000000005
-Aashirwad Chakki Atta (10kg),3,484.53000000000003
-Aashirwad Chakki Atta (5kg),3,500.51
-Ambey Chakki Aata,3,162.42000000000002
-Ambey Patent Maida,3,535.37
-Anchal Vanaspati Ghee Pouch,3,95.60000000000001
-Arrarot,3,94.79
-Best Choice Palm Tin(15Kg),3,24.49
-Chana Dal,3,32.0
-Chhota Chhola,3,9.23
-Chhoti Wala Arhar Dal,3,15.58
-Deepak Aata,3,447.65
-Deepak Maida,3,973.11
-Double Chabhi Rice,3,139.02
-Double Filter Sugar,3,954.5
-Fortune First Choice Maida,3,22.799999999999997
-Fortune Kacchi Ghani,3,2.06
-Fortune Kacchi Ghani Bottle(1L),3,56.599999999999994
-Fortune Soya Pouch(1L),3,199.75
-Fortune Soya Tin(15L),3,20.98
-Galaxy rice,3,77.96
-Gauri Rice,3,6.890000000000001
-Independence Soya Oil Pouch(1L),3,918.36
-Mahakosh Soya Oil Pouch(1L),3,84.56
-Mahalaxmi Soya tin (15 kg),3,18.75
-Medium Chhola,3,169.21
-Nature Fresh Soya Tin(15Kg),3,58.71
-Nature Fresh Soya Tin(15L),3,314.73
-Oil Ruchi Gold Palm Pouch (770Gm),3,3765.07
-Parivar Mustard Bottle(1L),3,228.9
-Parivar Mustard Bottle(2L),3,91.75
-Parivar Mustard Bottle(500ml),3,72.55000000000001
-Parivar Mustard Jar(5L),3,57.4
-Parivar Pasand Chakki Aata (50kg),3,464.9
-Rajdhani Barik Besan,3,481.59000000000003
-Rajdhani Besan Pkt(1Kg),3,8.4
-Rajdhani Chakki aata,3,42.39
-Rajdhani Maida,3,1.98
-Rajdhani Mota Besan,3,22.12
-Rajdhani Motichur Besan,3,5.27
-Rath Vanaspati Ghee Pouch(1L),3,7.119999999999999
-Rath Vanaspati Ghee Tin(15Kg),3,87.27000000000001
-Reliance Salt Pkt(1Kg),3,6.79
-Ruchi Gold Palm Pouch(1L),3,8509.36
-Ruchi Gold Palm Tin(15kg),3,147.85
-Ruchi Soyabadi,3,8.62
-Scooter Vanaspati Tin(15Kg),3,27.04
-Shri Ram maida (50kg),3,804.1
-Siddhi Vinayak Maida,3,36.07
-Siddhi Vinayak Mill Aata,3,51.0
-Single Filter Sugar,3,133.59
-Suji/Rava,3,22.34
-Tata Salt Pkt(1Kg),3,527.08
-Vibhor Soya Pouch(1L),3,854.7
-AJMAL BASMATI RICE,4,3.13
-Bail Kohlu Mustard Bottle(1L),4,2.89
-Bawarchi Vanaspati Balti LTR,4,11.14
-Bawarchi Vanaspati Pouch 1ltr,4,44.17
-Bawarchi Vanaspati Tin (15Ltr),4,53.739999999999995
-Best Choice Soya Tin (15Kg),4,59.88
-Chana Dal,4,1.41
-Fortune Besan (500 Gm),4,3.83
-Fortune Kacchi Ghani,4,11.54
-Fortune Soya Pouch(1L),4,8.29
-Fortune Soya Tin(15L),4,392.94
-Hum Tum Rice,4,39.83
-Kingfisher Arhar Dal,4,25.31
-Madhur Gold Aata,4,22.13
-Madhur Gold Maida,4,834.22
-Masodha Double Filter Sugar,4,1070.21
-Matar,4,93.28
-Nepali Soya Pouch,4,5.65
-Nepali Soya Tin,4,14.049999999999999
-Normal Sugar,4,116.98
-Rasoi Aata,4,0.0
-Ruchi Gold Palm Pouch(1L),4,263.9
-Ruchi Gold Palm Tin(15kg),4,84.79
-SAPNA GOLD AATA,4,86.28999999999999
-SAPNA GOLD MAIDA,4,292.84
-Saccha Heera Chhola,4,7.98
-Safed Matar Dal,4,4.27
-Soyum Soya (15Lit),4,0.0
-Tata Salt Pkt(1Kg),4,6.09
-Tiger Arhar Dal,4,0.0
-Dalmia Double Filter Sugar,5,5.29
-Kezar Maida,5,17.93
-Kings Soya Pouch,5,16.9
-Normal Sugar,5,47.980000000000004
-DCM Double Filter Sugar,6,27.44
-Deepak Aata,6,10.219999999999999
-Deepak Maida,6,17.89
-Double Chabhi Rice,6,15.83
-Gauri Old Rice,6,4.34
-HP Atta,6,45.29
-Heritage XXXL,6,11.63
-Mahakosh Soya Oil Pouch(1L),6,2.72
-NR Atta,6,60.95
-Nature Fresh Soya Tin(15L),6,112.83
-Normal Sugar,6,16.96
-Parivar Pasand Chakki Aata (50kg),6,1.54
-Rajdhani Barik Besan,6,5.23
-Rajdhani Mota Besan,6,26.79
-Ruchi Gold Palm Pouch(1L),6,158.17000000000002
-Safal Atta,6,4.82
-Shudh Oil,6,7.35
-Sk Maida,6,77.54
-Vibhor Soya Pouch(1L),6,39.86
+warehouse_id,item_name,predicted_qty_2025-04-11_to_2025-04-24
+3,Ruchi Gold Palm Pouch(1L),5558.47
+3,Oil Ruchi Gold Palm Pouch (770Gm),2505.66
+1,Soyum Soya Tin(15L) V,2414.26
+1,Shreshtha Aata,1852.86
+1,Soyum Soya Pouch,1500.29
+1,Fortune Soya Tin(15L),1473.22
+1,Tata Salt Pkt(1Kg),1055.39
+2,Normal Sugar,1043.25
+4,Masodha Double Filter Sugar,1016.82
+3,Vibhor Soya Pouch(1L),1009.48
+2,Prakash Aata,923.12
+3,Deepak Maida,921.55
+2,Soyum Soya (15Lit),881.02
+1,Normal Sugar,863.15
+1,Steam Rice,748.89
+2,Laal Gulaab Maida,746.62
+4,Madhur Gold Maida,731.2
+1,Ruchi Gold Palm Pouch(1L),722.96
+1,Fortune Soya Pouch(1L),719.96
+2,Fortune Soya Tin(15L),708.62
+2,Bail Kolhu Pouch,682.59
+2,Prakash Maida,679.17
+1,Prakash Maida,668.88
+3,Tata Salt Pkt(1Kg),621.91
+6,Ruchi Gold Palm Pouch(1L),616.39
+3,Fortune Soya Pouch(1L),592.15
+2,DCM Double Filter Sugar,572.87
+1,Bail Kolhu Pouch,568.2
+1,Oil Ruchi Gold Palm Pouch (770Gm),526.97
+4,Normal Sugar,511.49
+3,Double Filter Sugar,507.48
+2,Nepali Soya Pouch,496.98
+4,Ruchi Gold Palm Pouch(1L),485.16
+4,SAPNA GOLD MAIDA,475.0
+3,Aashirwad Chakki Atta (10kg),473.82
+3,Aashirwad Chakki Atta (5kg),454.24
+1,Kings Soya Pouch,431.4
+3,Deepak Aata,427.13
+1,Hari Patti(Green) Rice,398.38
+1,Raag Gold Palm Pouch,395.94
+1,Kezar Aata,372.39
+3,Rajdhani Barik Besan,367.4
+1,Kezar Maida,350.84
+2,Fortune Soya Pouch(1L),345.44
+1,Matar,345.12
+1,Prakash Aata,341.53
+3,Nature Fresh Soya Tin(15L),327.37
+2,Soyum Soya Pouch,303.93
+4,Fortune Soya Tin(15L),299.71
+1,Mahakosh Soya Oil Pouch(1L),294.05
+1,Swastik maida,292.58
+2,Laal Gulaab Suji/Rava,290.41
+2,Nepali Soya Tin,289.94
+1,Laal Gulaab Maida,288.44
+4,Tata Salt Pkt(1Kg),287.19
+2,Fortune Soya Tin(13Kg),285.04
+2,Tata Salt Pkt(1Kg),282.11
+4,Nepali Soya Pouch,279.01
+1,Nature Fresh Soya Tin(15L),273.98
+2,Fryola Palm,250.0
+2,Kings Soya Pouch,247.7
+1,DCM Double Filter Sugar,246.01
+2,Local Sugar,245.87
+1,BMS FPO wheat atta,245.2
+2,Oil Ruchi Gold Palm Pouch (770Gm),241.27
+2,Nepali Soya,220.66
+4,Hum Tum Rice,213.94
+3,Single Filter Sugar,213.04
+4,SAPNA GOLD AATA,202.75
+1,Maharaja Chakki Aata,194.53
+2,Ruchi Gold Palm Pouch(1L),181.88
+1,Bail Kohlu Mustard Bottle(500ml),179.26
+2,Shreshtha Aata,168.83
+6,DCM Double Filter Sugar,166.64
+3,Siddhi Vinayak Mill Aata,162.23
+1,Saccha Heera Chhola,158.09
+4,Sunny Maida,157.45
+1,Arhar Dal,151.63
+4,Soyum Soya (15Lit),149.23
+6,Nature Fresh Soya Tin(15L),147.7
+3,Fortune Kacchi Ghani Bottle(1L),142.18
+3,Parivar Mustard Bottle(1L),141.99
+3,Shri Ram maida (50kg),141.35
+3,Galaxy rice,136.98
+6,Normal Sugar,135.73
+6,Deepak Maida,133.83
+1,Chana Dal,127.66
+3,Fortune Soya Tin(15L),123.56
+4,Fortune Soya Pouch(1L),122.85
+2,Adani Patla Besan,121.2
+2,Kings Soya Tin(15Kg),121.11
+3,Parivar Pasand Chakki Aata (50kg),119.73
+1,Mahakosh Mustard Oil Pouch (1L),118.99
+1,Laal Gulaab Suji/Rava,118.51
+2,Fryola Soya,118.45
+2,Nature Fresh Soya Tin(15L),118.33
+3,Nature Fresh Soya Tin(15Kg),114.42
+1,Bajaj Sugar,114.01
+3,Parivar Mustard Bottle(2L),112.71
+3,Anchal Vanaspati Ghee Pouch,112.71
+1,Pukhraj Arhar Dal,112.07
+1,7 Star Rice,106.75
+3,Mahakosh Soya Oil Pouch(1L),103.36
+3,Double Chabhi Rice,99.84
+4,Rasoi Aata,99.31
+1,Chhola,98.36
+3,Mahalaxmi Soya tin (15 kg),95.26
+6,Deepak Aata,94.98
+2,Bawarchi Vanaspati Tin(15Kg),91.85
+6,NR Atta,90.57
+1,Bawarchi Vanaspati Tin(15Kg),85.41
+3,Medium Chhola,85.2
+4,Best Choice Soya Tin (15Kg),84.8
+3,Arrarot,84.55
+2,Arrarot,84.16
+4,Nepali Soya Tin,83.94
+1,Om Mahakaaleshwar Maida,82.1
+2,Bawarchi Vanaspati Balti KG,80.66
+5,Kings Soya Pouch,80.48
+2,Fortune Maida,78.92
+6,Mahakosh Soya Oil Pouch(1L),78.45
+5,Normal Sugar,77.94
+2,Ruchi Gold Palm Tin(15kg),77.6
+4,Matar,76.7
+1,Sprite (2L),74.9
+1,Ashok Kashmiri Mirch Pkt(100gm),74.72
+2,Bawarchi Soya Tin(15Kg),72.74
+4,Kingfisher Arhar Dal,72.04
+2,Khila Dana(Chini),69.71
+6,Shudh Oil,68.53
+2,Bail Kohlu Mustard Bottle(500ml),67.12
+2,Adani Mota Besan,65.16
+2,Steam Rice,64.79
+2,Bawarchi Vanaspati Pouch 1ltr,64.42
+1,BMS Besan pkt(500gm),63.28
+1,BMS FPO Wheat Atta pkt(5kg),59.76
+3,Rath Vanaspati Ghee Tin(15Kg),59.54
+6,Safal Atta,59.17
+4,Safed Matar Dal,57.12
+1,Bawarchi Vanaspati Pouch 1ltr,56.27
+6,Double Chabhi Rice,55.71
+1,Om Mahakaaleshwar Aata,55.52
+6,Fortune Soya Pouch(1L),55.09
+1,Arrarot,54.75
+6,Rajdhani Barik Besan,54.25
+2,Kohinoor Tandoori Aata,52.98
+4,Kriti Maida,52.03
+3,Parivar Mustard Bottle(500ml),50.99
+2,Rooh Afza Bottle(1L),50.76
+1,Agni Tata Tea,50.6
+1,Hari Patti Selha Rice,50.17
+5,Nepali Soya Pouch,49.59
+1,Ashok Haldi Powder Pkt(50gm),49.15
+5,Fortune Soya Pouch(1L),48.65
+1,Ruchi Gold Palm Tin(15kg),48.64
+6,Sk Maida,48.44
+1,Sprite (1L),47.98
+2,Saccha Heera Chhola,47.37
+1,Rice Deepak Resort basmati,47.31
+1,Kohinoor Tandoori Aata,46.99
+1,Rehaan Classic 1121 Rice,46.18
+5,Fortune Soya Tin(15L),45.35
+1,Adani Mota Besan,45.26
+5,Bail Kohlu Mustard Bottle(1L),44.65
+1,Bail Kohlu Mustard Bottle(2L),44.38
+1,Maggie Noodles,44.13
+6,Vibhor Soya Pouch(1L),43.8
+2,Masoor Dal,43.14
+5,Dalmia Double Filter Sugar,42.88
+1,Nourish Rava/Suji,40.95
+2,Pani (500 Ml),40.87
+4,Ruchi Gold Palm Tin(15kg),40.59
+3,Rajdhani Mota Besan,40.41
+6,HP Atta,40.01
+3,Parivar Mustard Jar(5L),39.82
+6,Rajdhani Mota Besan,39.79
+2,Pukhraj Arhar Dal,39.75
+4,Bawarchi Vanaspati Pouch 1ltr,39.22
+4,Pani (250 Ml),39.01
+1,Desi Chana,38.93
+3,Independence Soya Oil Pouch(1L),38.65
+4,Diamond Maida,38.16
+3,Gauri Rice,36.9
+4,Fortune Soya Tin(13Kg),36.74
+3,Best Choice Palm Tin(15Kg),36.66
+1,Dalda Vanaspati Tin,36.6
+2,Desi Chana,36.3
+2,Atish Maida,36.28
+4,Madhur Gold Aata,35.97
+1,Independence Steam Rice,35.87
+1,Double Kabootar Rice,35.2
+4,SAPNA GOLD AATA (30KG),35.08
+4,Bajaj Sugar,35.01
+3,Scooter Vanaspati Tin(15Kg),34.87
+2,Malai Maida,34.87
+1,Ashok Meat Masala Pkt(100gm),34.43
+2,Matar,34.17
+1,Ashok Kitchen King Masala Pkt(100gm),34.15
+2,Om Mahakaaleshwar Aata,33.7
+4,AJMAL BASMATI RICE,33.5
+6,Scooter Vanaspati Tin(15Kg),33.01
+6,Arrarot,32.81
+1,Nepali Soya Tin,32.46
+1,Ruchi Gold Palm Tin (15L),32.42
+2,Mahakosh Mustard Oil Pouch (1L),32.29
+1,Thumbs up (2L),31.87
+1,Thumbs up (750ml),31.7
+6,Tata Salt Pkt(1Kg),31.52
+2,Poha,31.32
+5,Bail Kohlu Mustard Bottle(2L),31.03
+4,Fortune Besan (500 Gm),31.02
+1,Ashok Laal Mirch Powder Pkt(100gm),30.68
+4,Bawarchi Vanaspati Tin (15Ltr),30.07
+5,Patent Maida,29.89
+1,Pani (500 Ml),29.86
+4,Boond Water Bootle (250 ml),28.69
+2,Kezar Maida,28.23
+2,Nourish Sunflower Pouch,28.22
+5,Kezar Maida,27.6
+4,Swastik Suji Rava,27.4
+4,Rasoi Maida,26.79
+1,Bail Kohlu Mustard Bottle(200ml),26.7
+3,Rath Vanaspati Ghee Pouch(1L),26.57
+4,Nepali Soya,26.42
+1,Bail Kohlu Mustard Bottle(1L),26.36
+2,Fortune Fryola Soya,26.31
+1,BMS cold pressed mustard oil bottle(1L),25.92
+1,Kesariya maida,25.9
+4,Pani (500 Ml),25.75
+2,Dalda Vanaspati Tin,25.19
+5,Prakash Aata,24.97
+3,Ruchi Gold Palm Tin(15kg),24.38
+1,KN Gold Maida,24.23
+3,Gauri Old Rice,23.82
+1,Nourish Besan Pkt(500gm),23.66
+2,Bail Kohlu Mustard Bottle(1L),23.58
+3,Suji/Rava,23.24
+4,Ruchi Gold Palm,23.18
+2,Laal Gulaab Mill Aata,23.13
+1,Double Sikka,22.92
+1,Ashok Chicken Masala Pkt(100gm),22.76
+1,Adani Patla Besan,22.71
+5,Soyum Soya Tin(15L) V,22.47
+2,Dalda Vanaspati Pouch,22.43
+6,Double Filter Sugar,22.18
+4,Parinda Rice,21.92
+1,Red Malka Masoor,21.82
+3,Fortune First Choice Maida,21.68
+2,Kumbhi Double Filter Sugar,21.6
+2,Bail Kohlu Mustard Bottle(2L),21.52
+2,Surabhi Maida,21.34
+1,Thumbs up (1L),21.09
+5,Kezar Aata,20.99
+2,Mahakosh Soya Oil Pouch(1L),20.91
+2,Om Mahakaaleshwar Maida,20.7
+2,Dalmia Double Filter Sugar,20.56
+2,Everest Kashmiri Mirch,19.88
+6,Reliance Salt Pkt(1Kg),19.8
+2,Bail Kohlu Mustard Jar(5L),19.53
+2,Ruchi Gold Palm Tin (15L),19.45
+1,Ashok Haldi Powder Pkt(100gm),19.28
+1,Poha Pkt(500gm),18.92
+4,Swastik maida,18.84
+6,Fortune Kacchi Ghani Bottle(1L),18.77
+2,Agni Tata Tea,18.65
+2,Goldiee Kitchen King (100gm),18.57
+4,Rauza Double Filter Sugar,18.26
+2,Mayur Soya Tin(15Kg),18.12
+1,Ashok Garam Masala Pkt(100gm),18.08
+3,Shudh Mustard Oil Bottle (1L),17.87
+4,Tiger Arhar Dal,17.86
+1,Ashok Laal Mirch Powder Pkt(200gm),17.85
+3,Vibhor Soya Tin(15L),17.43
+1,Ashok Chaat Masala Pkt(100gm),17.41
+5,Bail Kolhu Pouch,17.17
+4,Bawarchi Vanaspati Balti LTR,17.13
+6,Khila Dana(Chini),17.07
+5,Raag Gold Palm Pouch,16.92
+4,Adani Mota Besan,16.78
+3,Rajdhani Chakki aata,16.47
+1,Ganesh Maida,16.19
+3,Ruchi Soyabadi,16.08
+2,Goldiee Garam Masala Pkt(100gm),15.71
+4,Laal Gulaab Maida,15.54
+1,Ashok White Pepper Powder Pkt(50gm),15.39
+6,Oil Ruchi Gold Palm Pouch (770Gm),15.26
+2,Hari Patti Selha Rice,14.86
+2,Hari Patti(Green) Rice,14.83
+1,Ashok Jaljeera Masala Pkt(50gm),14.63
+1,Khila Dana(Chini),14.63
+5,Bail Kohlu Mustard Bottle(500ml),14.62
+1,Ashok Raita Masala Pkt(50gm),14.43
+1,Nepali Soya,14.24
+6,Shri Ram maida (50kg),14.18
+6,Parivar Pasand Chakki Aata (50kg),14.16
+6,Gauri Old Rice,14.16
+6,Gauri Rice,14.09
+2,Kezar Aata,14.05
+2,Nourish Roasted Dalia,13.8
+2,SODA CHINI (1KG) सोडा,13.77
+3,Chana Dal,13.72
+1,BMS naturals haldi powder pkt(200gm),13.59
+3,Siddhi Vinayak Maida,13.49
+1,Rice Saifeena 5 no.,13.47
+2,Bail Kolhu Mustard Jar,13.37
+1,RICE MOTI GOLD KHANDA,13.37
+1,Bawarchi Chhoti Soyabadi,13.31
+2,Raag Gold Palm Pouch,13.15
+4,Kala Chana,12.91
+2,Deepak Aata,12.56
+4,Bail Kohlu Mustard Bottle(1L),12.45
+2,Chana Dal,12.4
+4,Nepali Soya Pouch (500ml),12.32
+1,BMS naturals dhaniya powder pkt(200gm),12.16
+1,Laal Rajma Bada,12.08
+2,Idli Rava,11.72
+6,Rice double chabhi tukda,11.68
+3,Premium Arhar Dal,11.62
+2,Shudh Aahar Maida,11.58
+3,Reliance Salt Pkt(1Kg),11.49
+3,Sugar(Karara),11.46
+1,Ashok Dhaniya Powder Pkt(100gm),11.45
+3,Ambey Patent Maida,11.38
+3,Regular Basmati Rice,11.34
+1,Fryola Palm,11.27
+3,Nature Fresh Ghee(Purita) Tin(15Kg),11.2
+2,Jaggery,11.15
+2,Fortune Matar Besan,11.04
+3,Fortune Kachi Ghani Pouch (500ml),11.01
+1,KN Gold Aata,10.92
+3,Fortune Kacchi Ghani,10.84
+3,Rajdhani Motichur Besan,10.66
+4,Saccha Heera Chhola,10.65
+6,Sugar(Karara),10.6
+1,Ajinomoto,10.56
+6,Regular Basmati Rice,10.36
+1,Sprite (750ml),10.34
+2,Arhar Dal,10.28
+2,Ruchi Ghee Pouch (1L),10.19
+2,Salt,10.05
+4,Chana Dal,10.01
+1,Sikka Heeng Pkt(100gm),10.0
+2,Boond Water Bottle (500 ml),9.88
+2,Pisan Chakki Atta,9.87
+1,Ashok Chhola Masala Pkt(100gm),9.86
+5,Nonbranded Aata,9.8
+4,Fortune Kacchi Ghani,9.76
+4,Nature Fresh Soya Tin(15L),9.74
+5,Bail Kohlu Mustard Jar(5L),9.47
+4,DCM Double Filter Sugar,9.46
+1,Premium Sabut Jeera,9.45
+4,Bail Kohlu Mustard Bottle(500ml),9.42
+1,BMS naturals mircha powder pkt(200gm),9.31
+2,Deepak Maida,9.3
+6,Siddhi Vinayak Mill Aata,9.27
+1,Riceman Jeera Rice,9.24
+3,Sona Masoori Rice,9.24
+1,Ashok Sambhar Masala Pkt(50gm),9.24
+4,Khila Dana(Chini),9.22
+1,Bail Kolhu Mustard Jar,8.9
+4,Ganesh Rava/Suji,8.85
+4,Soyum Soya Tin(15L) V,8.8
+2,Best Choice Palm Tin(15Kg),8.66
+6,Galaxy rice,8.63
+4,Hari Patti(Green) Rice,8.53
+2,Murli Heeng,8.51
+1,Dhuli Moong Dal,8.42
+4,Kings Soya Pouch,8.39
+2,Goldiee Haldi Powder Pkt(200 Gm),8.39
+5,Pani (500 Ml),8.37
+1,Pani (1000 Ml),8.35
+1,Patanjali Sunrich Sunflower Oil Pouch,8.19
+4,Best Choice Palm Tin(15Kg),8.17
+1,Peanut,8.06
+1,Ashok Khatai Masala Pkt(50gm),7.98
+1,DAL URAD BLACK KHADI,7.92
+1,Laal Mirch Sabut,7.88
+3,Ruchi Ghee Pouch (1L),7.81
+1,Mishri Dana,7.8
+2,RICE BASMATI BIRYANI,7.66
+1,Rice Saifeena XXXL,7.66
+1,BMS naturals dhaniya powder Jar(100gm),7.55
+1,BMS naturals haldi powder Jar(100gm),7.55
+6,Rajdhani Chakki aata,7.54
+1,Ashok Chaat Masala Pkt(50gm),7.39
+6,Tibaar Rice,7.31
+2,Maggie Noodles,7.27
+1,Ashok Jaljeera Masala Pkt(100gm),7.23
+3,Shudh Mustard Oil Bottle(500ml),7.2
+4,Emami Best Choice Soya Pouch,7.2
+4,Pure Gold Besan Patla,7.17
+3,Ambey Chakki Aata,7.14
+2,Fortune Soya Jar (5L),7.06
+2,Ashok Chicken Masala Pkt(50gm),7.06
+1,Ashok Shahi Paneer Masala Pkt(50gm),7.04
+4,Boond Water Bottle (1L),7.0
+2,Badam,6.93
+1,Nescafe coffee Pkt(9.5gm),6.91
+6,Rice Basmati Khanda,6.86
+1,Pani (250 Ml),6.85
+3,Kings Soya Pouch,6.82
+4,Raag Gold Palm Pouch,6.72
+1,Dhuli Urad Dal,6.57
+2,Nourish Besan Pkt(500gm),6.52
+5,Soyum Soya Pouch,6.51
+1,Ashok Khatai Masala Pkt(100gm),6.5
+2,Ganesh Rava/Suji,6.47
+2,Dhuli Urad Dal,6.46
+1,Ashok Kitchen King Masala Pkt(50gm),6.43
+2,Sewai (100g),6.42
+5,RICE BASMATI BIRYANI,6.33
+2,Goldiee Mirch Powder Pkt(200gm),6.27
+1,Pasta,6.08
+3,Kala Chana,6.08
+2,Boond Water Bootle (250 ml),6.03
+1,Chana Sattu,5.97
+2,Premium Peanut,5.96
+2,Everest White Pepper Powder Pkt(100gm),5.92
+1,Ashok Kasoori Methi,5.67
+3,Rajdhani Besan Pkt(1Kg),5.43
+1,Green chiili sauce 1 bottle,5.42
+1,Kaju 2 Tukda,5.41
+1,Macroni,5.38
+1,Nutrela soya chunks Pkt(45gm),5.37
+1,Jaggery,5.35
+2,DAL URAD BLACK KHADI,5.33
+1,BMS naturals meat masala jar(100gm),5.29
+1,Vinegar,5.27
+4,Sunny Rava/Suji,5.15
+1,Ashok Sabji Masala Pkt(100gm),5.13
+1,BMS naturals Garam masala Jar(100gm),5.13
+6,Dal Arhar Chilka,5.11
+1,Nourish Dalia Pkt(500gm),5.1
+4,Nepali Palm,5.1
+5,Pani (1000 Ml),5.09
+6,Bisleri bottle,5.09
+2,Goldiee Dhaniya Powder Pkt(200gm),5.07
+2,Laal Rajma Bada,5.02
+3,Chhota Chhola,4.94
+1,Ashok Haldi Powder Pkt(200gm),4.94
+1,Dhania Sabut,4.93
+1,Lijjat Papad,4.89
+1,Badam,4.89
+2,Kali Urad Dal,4.88
+2,Goldiee Haldi Powder Pkt(500gm),4.85
+2,Laal Mirch Sabut,4.84
+1,DETERGENT POWDER,4.82
+1,Ashok Dhaniya Powder Pkt(200gm),4.64
+1,Malai Maida,4.63
+1,BMS naturals mircha powder Jar(100gm),4.61
+4,Madhur Gold Aata (26 KG),4.59
+1,Kaju 4 Tukda,4.58
+1,Chhoti Elaichi,4.57
+2,Sewai (800gm),4.54
+1,BMS naturals haldi powder pkt(500gm),4.52
+2,Kaali Masoor Dal,4.52
+3,Safed Matar Dal,4.51
+2,Goldiee Sabji Masala Pkt(200gm),4.47
+3,Shudh Mustard Oil Bottle(2L),4.42
+3,Chhoti Wala Arhar Dal,4.42
+6,Rajdhani Motichur Besan,4.39
+2,Everest Chaat Masala Pkt(100gm),4.36
+2,Tej Patta Sabut,4.33
+1,Besan,4.32
+4,Fortune Kacchi Ghani Bottle(1L),4.27
+1,Bail Kohlu Mustard Jar(5L),4.25
+6,Chhola,4.21
+2,Goldiee Dhaniya Powder Pkt(500gm),4.12
+2,Goldiee Meat Masala Pkt(16gm),4.11
+3,Vikram Chakki Aata,4.04
+2,Premium Sabut Jeera,4.03
+1,Kaali Masoor Dal,3.99
+1,Ajwain,3.97
+5,Prakash Maida,3.96
+1,Ashok Shahi Paneer Masala Pkt(100gm),3.95
+2,Hari Urad Dal,3.94
+4,Kalash Maida,3.93
+4,SARSO KADVA(SARSONA) Mustard OIL,3.91
+4,Classic Health Mustard Bottle(1L),3.9
+6,Shree Hari aata,3.9
+2,Kaali Mirch Khada,3.89
+2,Ajwain,3.86
+2,Moong Daal,3.85
+2,Jeera Sabut,3.8
+2,Goldiee Mirch Powder Pkt(500gm),3.79
+2,GOLD TOOR DAL,3.75
+2,Dhania Sabut,3.74
+1,Mushroom,3.66
+1,Vermicilli Pkt(450gm),3.65
+2,Lijjat Papad,3.6
+1,BMS naturals mircha powder pkt(500gm),3.59
+1,Corn Flour,3.57
+6,Nepali Soya,3.55
+1,Dalda Vanaspati Pouch,3.51
+1,Small Unbranded Chola,3.48
+4,Steam Rice,3.45
+2,Goldiee Meat Masala Pkt(100gm),3.41
+1,Kaali Mirch Khada,3.37
+1,Matar dal,3.36
+2,Shudh Aahar Aata,3.36
+1,Magaj,3.34
+3,Deepak Mill Aata,3.29
+2,Custard Powder (Pkt 1Kg),3.27
+3,Shudh Mustard Oil Jar(5L),3.25
+2,Chana Sattu,3.23
+1,Bawarchi Badi Soyabadi,3.13
+2,Everest Kasuri Methi(500gm),3.09
+2,Everest Kitchen King,3.06
+6,Nature Fresh Ghee(Purita) Tin(15Kg),3.03
+1,Premium Peanut,3.01
+2,Everest Sambhar Masala Pkt(100gm),2.99
+1,Safed Rajma,2.96
+1,BMS naturals sabzi masala Jar(100gm),2.96
+2,Maharaja Chakki Aata,2.95
+1,Boond Water Bootle (250 ml),2.92
+6,Nepali Soya Tin,2.89
+1,KEWDA JAL(250 ml) केवड़ा जल,2.89
+1,BMS wheat atta pkt(10kg),2.87
+2,Goldiee Heeng Rajwadi Pkt(50gm),2.83
+2,Gokul Soya Tin,2.82
+4,Soyum Soya Pouch,2.81
+1,Mayur Soya Tin(15Kg),2.81
+2,Rath Vanaspati Ghee Tin(15Kg),2.79
+2,Gokul Soya Tin(15Kg),2.73
+2,Goldiee Sabji Masala Pkt(20gm),2.73
+1,Urad Dal Chilka,2.7
+2,Bhuna Chana,2.63
+1,Jeera Sabut,2.58
+2,Ashok Raita Masala Pkt(50gm),2.56
+2,Independence Steam Rice,2.55
+1,Bawarchi Vanaspati Balti KG,2.54
+3,Dhuli Urad Dal,2.5
+1,Baking Powder,2.49
+2,Bail Kohlu Mustard Bottle(200ml),2.47
+1,Kings Soya Tin(15L),2.43
+3,Rajdhani Maida,2.38
+6,RAISIN (1KG),2.38
+2,ASHOK BIRYANI MASALA (50 GM),2.36
+2,XXXL Golden Grain,2.35
+1,Rice MV Gold,2.33
+1,RAISIN (1KG),2.3
+1,Best Palm Tin(15kg),2.29
+2,Ashok Chhola Masala Pkt(50gm),2.28
+6,Rani Sahiba Rice,2.28
+1,Sabut Moong Dal,2.27
+1,Kalaunji,2.26
+3,Fortune Soya Jar (5L),2.26
+4,Oil Ruchi Gold Palm Pouch (770Gm),2.26
+1,Ashok Chicken Masala Pkt(50gm),2.18
+2,KN Maida,2.17
+2,Goldiee Mirch Powder Pkt(100gm),2.16
+6,MAANIK SOYA PETI,2.15
+6,Chana Dal,2.14
+1,BMS naturals dhaniya powder pkt(500gm),2.14
+6,Urad Sabut Dal,2.14
+1,Sabudana,2.13
+1,Ashok Dhaniya Powder Pkt(500gm),2.11
+2,Gemini Vanaspati Tin(15Kg),2.11
+6,Heritage XXXL,2.11
+3,Premium Chitra Rajma,2.08
+4,Nepali Palm Tin,2.08
+1,Nature Fresh Soya Tin(15Kg),2.07
+6,Kaju 4 Tukda,2.07
+2,Rice Saifeenaa 1,2.06
+1,Rice Saifeenaa 1,2.03
+1,Badi Elaichi,2.03
+1,MDH Kashmiri Mirch Powder Pkt(100gm),2.02
+1,Mahakosh Soya Oil Tin(15L),2.01
+1,Bawarchi Soyabean Chura,1.95
+1,Poha Pkt(1kg),1.94
+2,RAISIN (1KG),1.87
+1,TOMATO SAUCE (1RS),1.87
+2,Goldiee Kashmiri Mirch Powder (100 gm),1.86
+6,Gopal Atta,1.85
+2,Ashok Shahi Paneer Masala Pkt(50gm),1.83
+2,Peanut,1.83
+6,Jeera Sabut Pkt(100gm),1.82
+1,Soyum Soya (15Lit),1.81
+1,Bawarchi Vanaspati Pouch,1.81
+6,Munna Bhai Rice,1.81
+2,Everest Kasuri Methi(100gm),1.81
+1,SATRI(500GM),1.8
+3,Dhuli Moong Dal,1.79
+4,Maggie Noodles,1.78
+6,Color Red,1.77
+2,Goldiee Chicken Masala Pkt(18gm),1.75
+1,Dalchini,1.72
+1,Laung,1.7
+1,Raag Gold,1.65
+2,Imli,1.65
+1,Bhuna Chana,1.65
+1,Imli,1.65
+2,Ganesh Maida,1.64
+1,Ashok Kali Mirch Powder (50 Gm),1.63
+1,Ashok Haldi Powder Pkt(500gm),1.59
+1,Ashok Sambhar Masala Pkt(100gm),1.58
+3,Red Malka Masoor,1.57
+6,Eagle kitchen king masala pkt(500gm),1.57
+2,Chhoti Elaichi,1.54
+2,Goldiee Shahi Paneer Masala Pkt(100gm),1.5
+2,Everest Dry Mango,1.47
+6,Jeera Pkt(200gm),1.47
+2,Ashok Chaat Masala Pkt(100gm),1.45
+1,Ashok Raita Masala Pkt(100gm),1.45
+2,Ashok Chhola Masala Pkt(100gm),1.44
+3,Fortune Kacchi Ghani Bottle (5L),1.44
+1,Ashok Pav Bhaji Masala Pkt(100gm),1.43
+2,Goldiee Sabji Masala Pkt(100gm),1.42
+1,Chhoti Saunf,1.42
+2,Safed Rajma,1.41
+2,Sabudana,1.41
+2,Chhoti Saunf,1.38
+1,Sikka Heeng Pkt(500gm),1.38
+6,Nature Fresh Soya Tin(15Kg),1.35
+1,ITRA(5 ml) इतरा,1.35
+2,Dried Coconut,1.34
+2,Goldiee Chat Masala Pkt(100gm),1.31
+1,Boond Water Bottle (1L),1.31
+4,A1 Arhar Dal,1.3
+5,Mahakosh Mustard Oil Pouch (1L),1.3
+2,Ashok Kashmiri Mirch Pkt(100gm),1.3
+1,Jawar,1.29
+6,Tuta Basmati Rice,1.28
+2,Kaju 2 Tukda,1.28
+1,soda,1.27
+2,Ashok Chicken Masala Pkt(100gm),1.25
+1,Raita Boondi (3kg) रायता बूंदी,1.24
+4,Adani Patla Besan,1.24
+1,Ashok Jeera Powder Pkt(100gm),1.23
+2,Kings Mustard Kachi Ghani Pouch (1L),1.22
+1,Ashok Kashmiri Mirch Pkt(50gm),1.2
+6,Table Rice Golden Selha 1121 Tirupati,1.18
+2,Mixed Pickle Jar(5kg),1.17
+6,Fortune First Choice Chakki Aata,1.17
+1,Kovila Maida,1.16
+2,Mahakosh Soya Oil Tin(15L),1.15
+3,Ruchi Ghee Pouch (500 ML),1.15
+4,Classic Health Mustard Bottle(500ml),1.14
+1,MDH Degi Mirch Pkt(100g),1.14
+2,Baking Powder Pkt(100 Gm),1.13
+2,Ashok Dhaniya Powder Pkt(200gm),1.13
+1,Custard Pkt(1kg),1.12
+3,Mix Dal,1.12
+1,Baking Powder Pkt(500gm),1.12
+2,Ashok Garam Masala Pkt(200gm),1.12
+2,Pani (1000 Ml),1.11
+1,Javitri,1.11
+2,Goldiee Chhole Masala Pkt(100gm),1.11
+2,Raag Gold,1.11
+2,Goldiee Heeng Super Gold Pkt(50gm),1.1
+1,Sewai (100g),1.1
+3,Simply Gold Palm Oil Tin(15KG),1.09
+4,Best Choice-Soya Tin (15L),1.08
+2,Boond Water Bottle (1L),1.07
+1,Ashok Meat Masala Pkt(50gm),1.06
+1,Ashok Sonth Masala,1.05
+2,Goldiee Haldi Powder Pkt(1Kg),1.05
+2,Dhuli Moong Dal,1.05
+2,Laung,1.04
+1,Color Red,1.04
+2,Goldiee Chicken Masala Pkt(100gm),1.03
+1,Rice Saifeena 4 no.,1.02
+2,Dalchini,1.01
+2,Ashok Haldi Powder Pkt(50gm),1.01
+1,Bajre Ka Aata,1.0
+1,Gyan Ghee Pouch,1.0

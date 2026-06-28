@@ -1,0 +1,1781 @@
+customer_id,item_name,warehouse_id,predicted_quantity
+1,Prakash Maida,2,1.76
+1,Shreshtha Aata,2,22.16
+4,Bawarchi Vanaspati Pouch 1ltr,1,41.24
+4,Prakash Maida,1,11.69
+4,Raag Gold Palm Pouch,1,24.04
+4,Ruchi Gold Palm Pouch(1L),1,5.4
+5,DCM Double Filter Sugar,1,2.67
+13,Prakash Aata,1,8.26
+34,Kezar Maida,1,5.31
+34,Swastik maida,1,6.11
+46,Hari Patti(Green) Rice,1,306.15
+46,Pukhraj Arhar Dal,1,1063.63
+46,Shreshtha Aata,1,15.1
+46,Soyum Soya Tin(15L) V,1,84.9
+50,Shreshtha Aata,1,5.64
+58,Soyum Soya Tin(15L) V,1,2.53
+59,Kezar Aata,1,2.66
+66,Shreshtha Aata,1,12.19
+70,Kezar Aata,1,7.47
+85,Prakash Maida,1,7.73
+85,Shreshtha Aata,1,2.99
+85,Soyum Soya Tin(15L) V,1,12.36
+100,Shreshtha Aata,1,5.65
+135,Normal Sugar,1,2.6
+135,Shreshtha Aata,1,9.86
+164,Shreshtha Aata,1,13.38
+168,Shreshtha Aata,1,27.1
+174,Arhar Dal,1,15.61
+174,Kings Soya Pouch,1,26.9
+174,Mahakosh Soya Oil Pouch(1L),1,5.1
+174,Matar,1,19.09
+174,Saccha Heera Chhola,1,2.31
+174,Shreshtha Aata,1,96.76
+174,Steam Rice,1,20.28
+186,Shreshtha Aata,1,15.92
+187,Shreshtha Aata,1,6.83
+200,Shreshtha Aata,1,22.5
+203,Fortune Soya Pouch(1L),1,3.1
+203,Normal Sugar,1,1.62
+203,Shreshtha Aata,1,33.13
+241,Kings Soya Pouch,1,72.99
+241,Shreshtha Aata,1,11.95
+260,Prakash Maida,1,2.15
+260,Shreshtha Aata,1,2.18
+268,Kezar Maida,1,4.38
+268,Mahakosh Soya Oil Pouch(1L),1,185.29
+268,Prakash Maida,1,8.44
+268,Soyum Soya Pouch,1,23.81
+270,Kezar Aata,1,2.46
+279,Soyum Soya Tin(15L) V,1,72.41
+331,Normal Sugar,1,180.89
+336,Kezar Aata,1,2.09
+336,Soyum Soya Pouch,1,27.16
+336,Steam Rice,1,3.12
+387,Soyum Soya Pouch,1,5.0
+390,Kezar Aata,1,1.63
+390,Maharaja Chakki Aata,1,6.59
+394,Tata Salt Pkt(1Kg),1,53.98
+402,Shreshtha Aata,1,3.42
+402,Soyum Soya Pouch,1,16.75
+411,Normal Sugar,1,10.53
+411,Shreshtha Aata,1,39.05
+411,Soyum Soya Pouch,1,5.42
+411,Tata Salt Pkt(1Kg),1,2.64
+437,Soyum Soya Tin(15L) V,1,724.22
+460,Soyum Soya Pouch,1,17.59
+472,Tata Salt Pkt(1Kg),1,53.22
+485,Kezar Aata,1,23.22
+485,Kezar Maida,1,22.92
+485,Shreshtha Aata,1,14.29
+485,Tata Salt Pkt(1Kg),1,6.4
+486,Soyum Soya Tin(15L) V,1,3.58
+489,Prakash Aata,1,4.33
+509,Shreshtha Aata,1,83.23
+522,Shreshtha Aata,1,7.71
+535,Bail Kolhu Pouch,1,2.08
+535,Fortune Soya Pouch(1L),1,2.14
+535,Normal Sugar,1,5.35
+538,Kezar Maida,1,1.47
+538,Shreshtha Aata,1,23.7
+544,Chana Dal,1,72.77
+544,Matar,1,26.01
+544,Peanut,1,5.38
+544,Pukhraj Arhar Dal,1,35.67
+544,Steam Rice,1,10.63
+570,Tata Salt Pkt(1Kg),1,11.99
+579,Soyum Soya Pouch,1,7.55
+591,Normal Sugar,1,5.09
+602,DCM Double Filter Sugar,1,3.67
+602,Kezar Maida,1,16.1
+602,Soyum Soya Tin(15L) V,1,3.76
+612,Nature Fresh Soya Tin(15L),1,5.03
+613,Prakash Maida,1,1.55
+613,Soyum Soya Tin(15L) V,1,1.83
+626,Kezar Maida,1,4.81
+626,Steam Rice,1,191.23
+644,Double Chabhi Rice,3,31.68
+650,DCM Double Filter Sugar,1,17.64
+654,Tata Salt Pkt(1Kg),1,8.97
+657,Kezar Maida,1,1.48
+657,Soyum Soya Tin(15L) V,1,1.51
+674,Kezar Maida,1,4.05
+674,Normal Sugar,1,1.9
+678,Prakash Maida,1,3.83
+678,Shreshtha Aata,1,3.98
+680,Soyum Soya Tin(15L) V,1,4.18
+692,Atish Maida,2,10.04
+692,Fortune Maida,2,6.56
+692,Laal Gulaab Maida,2,14.73
+700,Soyum Soya Tin(15L) V,1,9.64
+703,Soyum Soya Tin(15L) V,1,38.57
+706,Shreshtha Aata,1,2.4
+706,Tata Salt Pkt(1Kg),1,2.19
+707,Prakash Aata,1,4.4
+720,Fortune Soya Tin(15L),3,20.98
+720,Rath Vanaspati Ghee Tin(15Kg),3,52.2
+720,Ruchi Gold Palm Tin(15kg),3,147.85
+722,Shreshtha Aata,1,2.23
+723,Prakash Aata,1,13.86
+723,Steam Rice,1,9.73
+728,Kezar Maida,1,7.18
+735,Shreshtha Aata,1,78.2
+738,DCM Double Filter Sugar,1,14.27
+738,Prakash Maida,1,23.22
+738,Soyum Soya Tin(15L) V,1,30.77
+740,DCM Double Filter Sugar,1,10.21
+740,Prakash Maida,1,8.26
+749,Kezar Maida,1,4.88
+754,DCM Double Filter Sugar,1,5.52
+754,Prakash Maida,1,3.86
+754,Soyum Soya Tin(15L) V,1,4.43
+766,Normal Sugar,1,1.24
+771,Shreshtha Aata,1,19.05
+776,Shreshtha Aata,1,12.48
+782,Mahakosh Soya Oil Pouch(1L),1,134.03
+782,Soyum Soya Pouch,1,164.56
+783,Soyum Soya Tin(15L) V,1,572.17
+791,Shreshtha Aata,1,182.76
+798,Soyum Soya Tin(15L) V,1,4.05
+805,Prakash Maida,2,1.28
+822,Arhar Dal,1,4.86
+822,Bawarchi Chhoti Soyabadi,1,5.49
+822,Chana Dal,1,7.27
+822,Hari Patti(Green) Rice,1,19.51
+822,Kezar Aata,1,7.74
+822,Kezar Maida,1,9.03
+822,Kings Soya Pouch,1,81.73
+822,Normal Sugar,1,4.28
+822,Soyum Soya Pouch,1,5.09
+822,Steam Rice,1,9.23
+836,Fortune Kacchi Ghani Bottle(1L),3,47.3
+836,Parivar Mustard Bottle(1L),3,44.3
+836,Parivar Mustard Bottle(500ml),3,10.13
+836,Parivar Mustard Jar(5L),3,4.72
+836,Vibhor Soya Pouch(1L),3,53.43
+839,Kezar Maida,1,34.95
+839,Shreshtha Aata,1,34.65
+853,Kezar Aata,1,24.07
+853,Kezar Maida,1,6.14
+853,Kings Soya Pouch,1,18.68
+853,Mahakosh Soya Oil Pouch(1L),1,17.2
+853,Matar,1,37.05
+853,Om Mahakaaleshwar Maida,1,16.47
+853,Rice Deepak Resort basmati,1,17.79
+853,Saccha Heera Chhola,1,9.09
+853,Soyum Soya Pouch,1,4.8
+853,Steam Rice,1,3.27
+853,Swastik maida,1,16.3
+877,Kezar Aata,1,36.44
+877,Tata Salt Pkt(1Kg),1,7.43
+909,Prakash Aata,1,5.98
+936,Matar,1,7.98
+936,Prakash Aata,1,3.28
+936,Prakash Maida,1,5.05
+936,Raag Gold Palm Pouch,1,28.52
+936,Saccha Heera Chhola,1,7.13
+936,Steam Rice,1,0.94
+959,Shreshtha Aata,1,63.83
+968,Prakash Maida,1,21.44
+968,Shreshtha Aata,1,60.75
+990,Normal Sugar,1,3.12
+990,Soyum Soya Pouch,1,14.29
+990,Tata Salt Pkt(1Kg),1,5.63
+1000,DCM Double Filter Sugar,1,1.11
+1038,Shreshtha Aata,1,4.29
+1050,Kezar Aata,1,40.05
+1054,DCM Double Filter Sugar,1,4.3
+1062,Shreshtha Aata,1,3.21
+1077,Kohinoor Tandoori Aata,1,20.98
+1077,Shreshtha Aata,1,8.76
+1082,Laal Gulaab Maida,1,11.72
+1082,Soyum Soya Tin(15L) V,1,2.51
+1098,Hari Patti(Green) Rice,1,310.68
+1108,Ruchi Gold Palm Pouch(1L),1,6.58
+1132,Shreshtha Aata,1,20.62
+1151,DCM Double Filter Sugar,1,9.81
+1151,Prakash Maida,1,6.69
+1170,Prakash Maida,1,32.56
+1170,Shreshtha Aata,1,49.51
+1176,Kezar Aata,1,183.88
+1176,Kezar Maida,1,24.33
+1182,Shreshtha Aata,1,3.94
+1194,Kezar Aata,1,4.85
+1194,Shreshtha Aata,1,9.6
+1203,Shreshtha Aata,1,10.51
+1208,Shreshtha Aata,1,58.32
+1225,Rajdhani Barik Besan,3,6.09
+1226,Bawarchi Vanaspati Tin(15Kg),1,2.67
+1226,DCM Double Filter Sugar,1,1.27
+1226,Prakash Maida,1,6.57
+1226,Soyum Soya Tin(15L) V,1,15.83
+1231,Shreshtha Aata,1,11.13
+1234,Hari Patti(Green) Rice,1,175.61
+1234,Prakash Aata,1,2.47
+1234,Prakash Maida,1,5.98
+1238,Normal Sugar,1,1.99
+1244,Prakash Maida,1,10.35
+1244,Soyum Soya Pouch,1,46.56
+1251,Prakash Aata,1,6.0
+1268,Kezar Maida,1,5.49
+1268,Swastik maida,1,2.13
+1288,Shreshtha Aata,1,5.51
+1295,DCM Double Filter Sugar,1,7.17
+1305,Fortune Soya Tin(15L),1,3.5
+1330,Kezar Maida,1,9.6
+1330,Maharaja Chakki Aata,1,0.25
+1330,Swastik maida,1,3.48
+1332,Laal Gulaab Maida,2,9.9
+1377,Shreshtha Aata,1,2.83
+1385,Shreshtha Aata,1,3.93
+1389,Shreshtha Aata,1,4.09
+1420,Adani Mota Besan,1,25.58
+1420,Bawarchi Vanaspati Pouch 1ltr,1,16.17
+1420,Chhola,1,66.58
+1420,KN Gold Maida,1,126.65
+1420,Kezar Maida,1,149.85
+1420,Normal Sugar,1,44.84
+1420,Prakash Aata,1,148.52
+1420,Prakash Maida,1,150.05
+1420,Saccha Heera Chhola,1,38.32
+1420,Shreshtha Aata,1,148.12
+1420,Steam Rice,1,32.21
+1420,Tata Salt Pkt(1Kg),1,16.37
+1425,Shreshtha Aata,1,2.59
+1434,Bail Kolhu Pouch,1,1.33
+1434,Kezar Aata,1,11.13
+1434,Mahakosh Mustard Oil Pouch (1L),1,5.91
+1434,Mahakosh Soya Oil Pouch(1L),1,31.35
+1434,Maharaja Chakki Aata,1,18.53
+1434,Normal Sugar,1,4.27
+1434,Shreshtha Aata,1,12.06
+1434,Soyum Soya Pouch,1,25.1
+1434,Steam Rice,1,3.86
+1439,Prakash Maida,1,4.19
+1439,Shreshtha Aata,1,10.82
+1445,Bawarchi Vanaspati Pouch 1ltr,1,6.07
+1445,Chhola,1,4.38
+1445,Hari Patti(Green) Rice,1,37.06
+1445,Kezar Aata,1,14.79
+1445,Kezar Maida,1,58.47
+1445,Normal Sugar,1,19.59
+1445,Saccha Heera Chhola,1,22.69
+1445,Soyum Soya Tin(15L) V,1,2.39
+1481,Prakash Maida,1,13.58
+1497,Prakash Maida,1,6.67
+1548,Aashirwad Chakki Atta (10kg),3,5.42
+1548,Aashirwad Chakki Atta (5kg),3,21.08
+1548,Deepak Maida,3,8.21
+1548,Double Filter Sugar,3,6.09
+1548,Fortune Soya Pouch(1L),3,13.72
+1548,Oil Ruchi Gold Palm Pouch (770Gm),3,10.67
+1548,Parivar Mustard Bottle(1L),3,3.75
+1548,Ruchi Gold Palm Pouch(1L),3,35.69
+1548,Shri Ram maida (50kg),3,10.71
+1548,Single Filter Sugar,3,20.98
+1548,Tata Salt Pkt(1Kg),3,12.46
+1548,Vibhor Soya Pouch(1L),3,7.46
+1557,Rajdhani Barik Besan,3,78.6
+1557,Scooter Vanaspati Tin(15Kg),3,6.84
+1571,Ruchi Gold Palm Pouch(1L),3,2.02
+1597,Bawarchi Vanaspati Balti KG,2,2.98
+1597,DCM Double Filter Sugar,2,20.7
+1597,Prakash Maida,2,26.55
+1605,Independence Soya Oil Pouch(1L),3,4.49
+1605,Parivar Pasand Chakki Aata (50kg),3,5.03
+1605,Rajdhani Besan Pkt(1Kg),3,8.4
+1605,Ruchi Soyabadi,3,8.62
+1605,Siddhi Vinayak Mill Aata,3,7.37
+1605,Tata Salt Pkt(1Kg),3,11.77
+1605,Vibhor Soya Pouch(1L),3,7.2
+1611,Aashirwad Chakki Atta (5kg),3,2.67
+1611,Galaxy rice,3,25.27
+1611,Mahakosh Soya Oil Pouch(1L),3,26.29
+1611,Rajdhani Chakki aata,3,5.16
+1611,Rajdhani Maida,3,1.98
+1611,Ruchi Gold Palm Pouch(1L),3,84.23
+1611,Vibhor Soya Pouch(1L),3,3.63
+1621,Fryola Palm,2,535.56
+1621,Nepali Soya,2,7.0
+1625,Ruchi Gold Palm Pouch(1L),3,35.26
+1634,Parivar Pasand Chakki Aata (50kg),3,2.31
+1636,Galaxy rice,3,4.63
+1636,Single Filter Sugar,3,1.91
+1637,Double Filter Sugar,3,13.46
+1642,Adani Patla Besan,2,3.92
+1642,Fortune Soya Pouch(1L),2,4.21
+1642,Laal Gulaab Suji/Rava,2,32.72
+1642,Oil Ruchi Gold Palm Pouch (770Gm),2,11.92
+1642,Prakash Aata,2,4.61
+1642,Prakash Maida,2,2.78
+1642,Ruchi Gold Palm Pouch(1L),2,17.57
+1642,SODA CHINI (1KG) सोडा,2,8.13
+1642,Shreshtha Aata,2,51.87
+1651,Nature Fresh Soya Tin(15L),3,61.36
+1668,Ruchi Gold Palm Pouch(1L),3,11.28
+1670,Single Filter Sugar,3,6.07
+1670,Vibhor Soya Pouch(1L),3,7.65
+1675,Double Filter Sugar,3,2.89
+1675,Ruchi Gold Palm Pouch(1L),3,3.23
+1676,Galaxy rice,3,3.11
+1701,Kezar Aata,1,2.34
+1701,Normal Sugar,1,1.95
+1701,Shreshtha Aata,1,1.49
+1703,Ruchi Gold Palm Pouch(1L),3,1.66
+1706,Deepak Aata,3,4.96
+1706,Deepak Maida,3,5.7
+1706,Mahakosh Soya Oil Pouch(1L),3,10.41
+1706,Parivar Pasand Chakki Aata (50kg),3,5.77
+1706,Shri Ram maida (50kg),3,0.77
+1712,Mahalaxmi Soya tin (15 kg),3,1.04
+1722,Ruchi Gold Palm Pouch(1L),3,25.45
+1733,Tata Salt Pkt(1Kg),3,295.67
+1744,Ambey Chakki Aata,3,118.81
+1744,Ambey Patent Maida,3,105.67
+1744,Deepak Aata,3,352.54
+1744,Deepak Maida,3,163.24
+1744,Medium Chhola,3,111.53
+1744,Oil Ruchi Gold Palm Pouch (770Gm),3,11.29
+1744,Parivar Pasand Chakki Aata (50kg),3,305.2
+1744,Ruchi Gold Palm Pouch(1L),3,15.39
+1744,Shri Ram maida (50kg),3,117.59
+1744,Tata Salt Pkt(1Kg),3,22.89
+1754,Double Filter Sugar,3,62.02
+1754,Rajdhani Mota Besan,3,12.49
+1773,Oil Ruchi Gold Palm Pouch (770Gm),3,110.73
+1773,Ruchi Gold Palm Pouch(1L),3,146.33
+1786,Single Filter Sugar,3,5.82
+1816,Ruchi Gold Palm Pouch(1L),3,44.36
+1816,Vibhor Soya Pouch(1L),3,65.9
+1855,Nature Fresh Soya Tin(15Kg),3,12.18
+1856,Arrarot,3,29.52
+1856,Deepak Maida,3,15.28
+1856,Double Chabhi Rice,3,78.85
+1856,Double Filter Sugar,3,5.23
+1856,Oil Ruchi Gold Palm Pouch (770Gm),3,10.89
+1856,Ruchi Gold Palm Pouch(1L),3,6.46
+1856,Shri Ram maida (50kg),3,5.44
+1856,Tata Salt Pkt(1Kg),3,21.6
+1860,Mahakosh Soya Oil Pouch(1L),3,9.7
+1860,Rajdhani Barik Besan,3,3.81
+1860,Shri Ram maida (50kg),3,2.59
+1866,Ruchi Gold Palm Pouch(1L),3,3.09
+1886,Rajdhani Mota Besan,3,9.63
+1888,Aashirwad Chakki Atta (10kg),3,5.93
+1895,Deepak Aata,3,5.11
+1895,Galaxy rice,3,16.27
+1895,Oil Ruchi Gold Palm Pouch (770Gm),3,62.64
+1895,Parivar Pasand Chakki Aata (50kg),3,7.93
+1895,Ruchi Gold Palm Pouch(1L),3,80.73
+1896,Chana Dal,3,32.0
+1896,Double Filter Sugar,3,131.59
+1896,Fortune First Choice Maida,3,17.08
+1896,Rajdhani Barik Besan,3,56.7
+1896,Rajdhani Chakki aata,3,37.23
+1896,Siddhi Vinayak Maida,3,36.07
+1896,Tata Salt Pkt(1Kg),3,18.21
+1920,Bawarchi Soya Tin(15Kg),2,22.1
+1920,Bawarchi Vanaspati Tin(15Kg),2,6.74
+1920,DCM Double Filter Sugar,2,23.97
+1920,Prakash Maida,2,7.94
+1920,Soyum Soya (15Lit),2,9.61
+1937,Aashirwad Chakki Atta (10kg),3,6.66
+1937,Aashirwad Chakki Atta (5kg),3,21.02
+1938,Ambey Patent Maida,3,87.8
+1938,Anchal Vanaspati Ghee Pouch,3,5.98
+1938,Deepak Maida,3,143.27
+1938,Rajdhani Barik Besan,3,52.83
+1938,Rath Vanaspati Ghee Pouch(1L),3,1.68
+1938,Ruchi Gold Palm Pouch(1L),3,3.6
+1938,Shri Ram maida (50kg),3,138.57
+1938,Vibhor Soya Pouch(1L),3,13.97
+1939,Chhoti Wala Arhar Dal,3,15.58
+1939,Parivar Mustard Bottle(1L),3,5.88
+1939,Parivar Pasand Chakki Aata (50kg),3,3.95
+1943,DCM Double Filter Sugar,2,2.63
+1943,Prakash Maida,2,4.57
+1943,Soyum Soya (15Lit),2,9.3
+1954,Nepali Soya,2,1.94
+1961,Ruchi Gold Palm Pouch(1L),3,118.97
+1982,Vibhor Soya Pouch(1L),3,9.24
+1995,Vibhor Soya Pouch(1L),3,10.05
+2005,Nature Fresh Soya Tin(15L),3,23.51
+2005,Ruchi Gold Palm Pouch(1L),3,50.06
+2005,Vibhor Soya Pouch(1L),3,49.1
+2010,Medium Chhola,3,57.68
+2010,Shri Ram maida (50kg),3,68.47
+2013,Ruchi Gold Palm Pouch(1L),3,9.29
+2017,Fortune Kacchi Ghani,3,2.06
+2018,Kezar Aata,1,90.87
+2018,Shreshtha Aata,1,55.61
+2018,Soyum Soya Tin(15L) V,1,47.98
+2026,Gauri Rice,3,4.54
+2027,Chhota Chhola,3,9.23
+2027,Ruchi Gold Palm Pouch(1L),3,11.2
+2038,Galaxy rice,3,5.93
+2038,Siddhi Vinayak Mill Aata,3,2.14
+2038,Vibhor Soya Pouch(1L),3,2.96
+2044,Suji/Rava,3,22.34
+2052,Galaxy rice,3,8.27
+2052,Ruchi Gold Palm Pouch(1L),3,73.51
+2057,Ruchi Gold Palm Pouch(1L),3,136.2
+2061,Double Filter Sugar,3,2.34
+2061,Rajdhani Barik Besan,3,2.88
+2061,Rath Vanaspati Ghee Tin(15Kg),3,3.32
+2067,Deepak Maida,3,14.08
+2067,Oil Ruchi Gold Palm Pouch (770Gm),3,72.66
+2077,Ruchi Gold Palm Pouch(1L),3,9.21
+2077,Single Filter Sugar,3,2.48
+2092,Shreshtha Aata,2,15.8
+2099,Double Filter Sugar,3,21.93
+2110,Nature Fresh Soya Tin(15L),3,7.24
+2110,Scooter Vanaspati Tin(15Kg),3,3.67
+2118,Fortune Kacchi Ghani Bottle(1L),3,2.61
+2118,Oil Ruchi Gold Palm Pouch (770Gm),3,11.07
+2118,Parivar Pasand Chakki Aata (50kg),3,10.02
+2118,Ruchi Gold Palm Pouch(1L),3,38.76
+2123,Independence Soya Oil Pouch(1L),3,428.32
+2135,Ruchi Gold Palm Pouch(1L),3,883.3
+2136,Parivar Pasand Chakki Aata (50kg),3,41.46
+2136,Rajdhani Barik Besan,3,30.93
+2136,Shri Ram maida (50kg),3,92.66
+2136,Single Filter Sugar,3,25.6
+2156,Ruchi Gold Palm Pouch(1L),3,117.47
+2163,Ruchi Gold Palm Pouch(1L),3,63.46
+2165,Rajdhani Barik Besan,3,28.36
+2177,Ruchi Gold Palm Pouch(1L),3,23.37
+2177,Single Filter Sugar,3,2.93
+2201,Bawarchi Vanaspati Balti KG,2,3.92
+2201,DCM Double Filter Sugar,2,3.99
+2201,Fryola Palm,2,7.81
+2201,Prakash Maida,2,3.96
+2204,Nepali Soya,2,69.34
+2204,Nepali Soya Tin,2,18.76
+2223,Deepak Maida,3,2.35
+2223,Double Filter Sugar,3,15.78
+2223,Mahalaxmi Soya tin (15 kg),3,2.89
+2223,Nature Fresh Soya Tin(15L),3,31.5
+2223,Rajdhani Motichur Besan,3,5.27
+2223,Rath Vanaspati Ghee Tin(15Kg),3,8.93
+2223,Scooter Vanaspati Tin(15Kg),3,16.53
+2227,DCM Double Filter Sugar,2,6.41
+2232,Laal Gulaab Suji/Rava,2,64.43
+2232,Prakash Aata,2,17.6
+2269,Bawarchi Vanaspati Balti KG,2,16.94
+2280,Laal Gulaab Maida,2,3847.65
+2280,Normal Sugar,2,236.42
+2280,Prakash Aata,2,140.97
+2280,Soyum Soya (15Lit),2,3.58
+2292,Kohinoor Tandoori Aata,2,1.49
+2296,Prakash Aata,2,2.05
+2301,Bawarchi Vanaspati Tin(15Kg),2,5.62
+2301,DCM Double Filter Sugar,2,9.9
+2301,Fortune Soya Tin(15L),2,11.81
+2301,Laal Gulaab Maida,2,12.91
+2301,Nature Fresh Soya Tin(15L),2,15.02
+2301,Prakash Aata,2,10.47
+2305,Kings Soya Pouch,2,6.75
+2305,Prakash Aata,2,10.84
+2337,Soyum Soya (15Lit),2,21.22
+2343,Prakash Aata,2,4.68
+2343,Steam Rice,2,2.79
+2350,Prakash Aata,2,9.61
+2351,Fryola Palm,2,19.36
+2355,Arrarot,2,10.47
+2355,Atish Maida,2,1.63
+2367,Prakash Aata,2,7.65
+2378,Bawarchi Soya Tin(15Kg),2,4.83
+2378,DCM Double Filter Sugar,2,4.53
+2378,Prakash Maida,2,1.82
+2379,Bawarchi Vanaspati Tin(15Kg),2,5.97
+2379,DCM Double Filter Sugar,2,4.57
+2379,Prakash Maida,2,8.8
+2387,Fryola Palm,2,5.27
+2387,Laal Gulaab Maida,2,7.51
+2389,Adani Patla Besan,2,2.99
+2389,DCM Double Filter Sugar,2,3.22
+2389,Prakash Maida,2,1.55
+2401,Bawarchi Soya Tin(15Kg),2,2.07
+2401,Kohinoor Tandoori Aata,2,30.25
+2401,Laal Gulaab Mill Aata,2,15.2
+2414,Fryola Palm,2,13.45
+2414,Prakash Aata,2,10.83
+2421,DCM Double Filter Sugar,2,7.22
+2421,Nature Fresh Soya Tin(15L),2,1.58
+2430,Fortune Soya Pouch(1L),2,1.55
+2430,Laal Mirch Sabut,2,5.21
+2430,Masoor Dal,2,2.18
+2430,Prakash Aata,2,16.17
+2430,Prakash Maida,2,4.61
+2472,Kaali Mirch Khada,2,4.78
+2472,Prakash Aata,2,8.95
+2472,Prakash Maida,2,1.17
+2472,RICE BASMATI BIRYANI,2,1.61
+2482,Laal Gulaab Maida,2,9.89
+2482,Shreshtha Aata,2,9.44
+2523,DCM Double Filter Sugar,2,2.56
+2523,Prakash Maida,2,5.82
+2525,DCM Double Filter Sugar,2,10.8
+2525,Prakash Maida,2,6.23
+2531,Ambey Patent Maida,3,244.63
+2531,Anchal Vanaspati Ghee Pouch,3,32.02
+2531,Arrarot,3,8.9
+2531,Deepak Maida,3,233.72
+2531,Double Filter Sugar,3,101.81
+2531,Oil Ruchi Gold Palm Pouch (770Gm),3,17.26
+2531,Rajdhani Barik Besan,3,85.56
+2531,Ruchi Gold Palm Pouch(1L),3,17.98
+2531,Shri Ram maida (50kg),3,76.81
+2541,Laal Gulaab Suji/Rava,2,7.11
+2541,Ruchi Gold Palm Pouch(1L),2,5.42
+2548,Prakash Maida,2,2.22
+2575,Prakash Aata,2,1.86
+2580,Aashirwad Chakki Atta (10kg),3,2.52
+2580,Aashirwad Chakki Atta (5kg),3,7.93
+2580,Deepak Maida,3,7.73
+2580,Double Filter Sugar,3,3.48
+2580,Fortune First Choice Maida,3,4.82
+2580,Fortune Soya Pouch(1L),3,15.52
+2580,Single Filter Sugar,3,3.39
+2580,Tata Salt Pkt(1Kg),3,1.57
+2580,Vibhor Soya Pouch(1L),3,7.3
+2583,Galaxy rice,3,2.84
+2583,Gauri Rice,3,2.35
+2623,Arrarot,2,28.94
+2623,Bawarchi Vanaspati Tin(15Kg),2,2.64
+2623,DCM Double Filter Sugar,2,32.45
+2623,Nature Fresh Soya Tin(15L),2,58.16
+2623,Prakash Aata,2,35.64
+2623,Prakash Maida,2,21.82
+2636,Adani Mota Besan,2,12.07
+2636,Adani Patla Besan,2,101.9
+2636,Nepali Soya,2,672.23
+2652,Bawarchi Vanaspati Tin(15Kg),2,11.06
+2652,DCM Double Filter Sugar,2,29.62
+2652,Fryola Palm,2,19.47
+2652,Prakash Maida,2,14.55
+2653,Normal Sugar,2,41.03
+2667,Soyum Soya (15Lit),2,17.72
+2669,Prakash Maida,2,3.15
+2669,Shreshtha Aata,2,7.75
+2694,Laal Gulaab Suji/Rava,2,24.04
+2694,Prakash Aata,2,72.68
+2694,Prakash Maida,2,15.21
+2694,Tata Salt Pkt(1Kg),2,34.99
+2695,Kezar Aata,1,4.89
+2695,Shreshtha Aata,1,2.62
+2695,Tata Salt Pkt(1Kg),1,7.07
+2747,Bawarchi Soya Tin(15Kg),2,8.61
+2747,Bawarchi Vanaspati Pouch 1ltr,2,32.68
+2747,Normal Sugar,2,73.1
+2747,Prakash Maida,2,143.87
+2764,DCM Double Filter Sugar,2,36.4
+2764,Prakash Maida,2,3.34
+2774,Bawarchi Vanaspati Tin(15Kg),2,2.43
+2774,DCM Double Filter Sugar,2,1.37
+2774,Kezar Maida,2,2.25
+2774,Laal Gulaab Maida,2,11.49
+2774,Soyum Soya (15Lit),2,3.2
+2774,Surabhi Maida,2,9.89
+2811,DCM Double Filter Sugar,2,2.15
+2814,Laal Gulaab Suji/Rava,2,4.93
+2814,Shreshtha Aata,2,7.76
+2856,DCM Double Filter Sugar,2,49.32
+2901,Prakash Aata,2,4.25
+2901,Prakash Maida,2,2.21
+2901,Soyum Soya (15Lit),2,2.11
+2908,Laal Gulaab Maida,2,11.97
+2908,Pani (500 Ml),2,8.89
+2931,Malai Maida,2,6.27
+2944,DCM Double Filter Sugar,1,8.91
+2944,Matar,1,45.45
+2944,Prakash Maida,1,19.08
+2944,Shreshtha Aata,1,2.37
+2949,Laal Gulaab Maida,1,36.37
+2949,Raag Gold Palm Pouch,1,182.91
+2949,Shreshtha Aata,1,51.14
+2949,Soyum Soya Tin(15L) V,1,31.9
+2985,Shreshtha Aata,1,38.46
+2986,Prakash Maida,1,17.99
+2994,Deepak Aata,3,19.26
+2994,Parivar Pasand Chakki Aata (50kg),3,16.25
+2994,Ruchi Gold Palm Pouch(1L),3,7.21
+2994,Single Filter Sugar,3,5.08
+3029,Kezar Aata,1,871.89
+3029,Kezar Maida,1,86.43
+3029,Normal Sugar,1,393.12
+3042,Prakash Maida,1,3.56
+3042,Shreshtha Aata,1,7.37
+3047,Mahakosh Soya Oil Pouch(1L),1,107.92
+3068,Deepak Aata,3,5.96
+3068,Parivar Pasand Chakki Aata (50kg),3,1.35
+3068,Vibhor Soya Pouch(1L),3,4.44
+3082,Bawarchi Vanaspati Tin(15Kg),2,10.35
+3082,DCM Double Filter Sugar,2,63.58
+3082,Fortune Soya Tin(15L),2,9.53
+3082,Malai Maida,2,16.61
+3083,Ruchi Gold Palm Pouch(1L),3,15.97
+3123,Bawarchi Vanaspati Balti KG,2,9.44
+3123,Bawarchi Vanaspati Pouch 1ltr,2,13.25
+3123,DCM Double Filter Sugar,2,1.44
+3123,Fortune Soya Tin(15L),2,1.82
+3123,Laal Gulaab Maida,2,0.91
+3123,Laal Gulaab Suji/Rava,2,42.49
+3123,Prakash Maida,2,2.37
+3124,Laal Gulaab Suji/Rava,2,5.54
+3124,Prakash Aata,2,4.7
+3124,Prakash Maida,2,10.42
+3124,Saccha Heera Chhola,2,1.75
+3127,Kings Soya Pouch,2,3.12
+3127,Laal Gulaab Maida,2,21.14
+3128,Adani Mota Besan,2,8.56
+3128,Bawarchi Vanaspati Balti KG,2,6.15
+3128,DCM Double Filter Sugar,2,13.42
+3128,Nepali Soya,2,9.46
+3128,Nepali Soya Tin,2,1.64
+3128,Prakash Maida,2,8.9
+3128,Soyum Soya (15Lit),2,1.56
+3130,Laal Gulaab Maida,2,206.08
+3130,Normal Sugar,2,5.64
+3130,Soyum Soya (15Lit),2,7.3
+3144,Mahakosh Soya Oil Pouch(1L),1,5.64
+3146,DCM Double Filter Sugar,2,5.44
+3152,Kohinoor Tandoori Aata,1,37.6
+3152,Laal Gulaab Suji/Rava,1,32.5
+3152,Prakash Maida,1,1.11
+3152,Raag Gold Palm Pouch,1,32.53
+3152,Shreshtha Aata,1,7.04
+3154,Kohinoor Tandoori Aata,2,1.69
+3160,Bawarchi Vanaspati Tin(15Kg),2,6.92
+3160,DCM Double Filter Sugar,2,13.14
+3160,Laal Gulaab Maida,2,7.02
+3163,Prakash Aata,2,1.84
+3163,Prakash Maida,2,2.08
+3165,Nepali Soya,2,58.89
+3168,Shreshtha Aata,1,11.78
+3170,Prakash Aata,2,5.82
+3170,Soyum Soya (15Lit),2,2.83
+3189,Kings Soya Pouch,2,3.28
+3189,Prakash Maida,2,11.45
+3194,Prakash Maida,2,4.69
+3200,Prakash Maida,2,9.2
+3221,Pani (500 Ml),2,7.04
+3228,Nature Fresh Soya Tin(15L),3,94.56
+3228,Ruchi Gold Palm Pouch(1L),3,293.23
+3249,Kezar Aata,1,1.77
+3249,Mahakosh Soya Oil Pouch(1L),1,64.62
+3249,Soyum Soya Pouch,1,15.61
+3261,Fortune Soya Pouch(1L),3,7.0
+3261,Ruchi Gold Palm Pouch(1L),3,169.6
+3261,Vibhor Soya Pouch(1L),3,15.96
+3288,Double Filter Sugar,3,19.16
+3288,Galaxy rice,3,7.64
+3288,Oil Ruchi Gold Palm Pouch (770Gm),3,258.59
+3288,Ruchi Gold Palm Pouch(1L),3,306.6
+3288,Single Filter Sugar,3,10.4
+3288,Vibhor Soya Pouch(1L),3,6.21
+3318,Ruchi Gold Palm Pouch(1L),3,146.6
+3321,Prakash Aata,2,25.42
+3322,Fortune Kacchi Ghani Bottle(1L),3,4.75
+3322,Ruchi Gold Palm Pouch(1L),3,13.95
+3323,Kohinoor Tandoori Aata,2,1.79
+3323,Laal Gulaab Maida,2,7.64
+3323,Prakash Aata,2,1.56
+3327,DCM Double Filter Sugar,2,18.94
+3327,Fryola Palm,2,10.19
+3327,Prakash Maida,2,7.31
+3330,Soyum Soya Tin(15L) V,1,1630.69
+3331,Local Sugar,2,5.62
+3331,Nepali Soya Tin,2,1.31
+3331,Normal Sugar,2,48.28
+3355,Prakash Maida,1,7.51
+3368,DCM Double Filter Sugar,1,18.24
+3368,Fortune Soya Tin(15L),1,3.16
+3368,Prakash Maida,1,14.35
+3368,Soyum Soya Tin(15L) V,1,5.1
+3374,Ambey Chakki Aata,3,43.61
+3374,Ambey Patent Maida,3,97.27
+3374,Parivar Pasand Chakki Aata (50kg),3,39.87
+3374,Ruchi Gold Palm Pouch(1L),3,5.87
+3374,Shri Ram maida (50kg),3,181.04
+3385,Arhar Dal,1,60.25
+3385,Bawarchi Vanaspati Pouch 1ltr,1,9.2
+3385,Chana Dal,1,107.68
+3385,Prakash Maida,1,449.43
+3385,Pukhraj Arhar Dal,1,30.22
+3385,Raag Gold Palm Pouch,1,10.01
+3385,Ruchi Gold Palm Pouch(1L),1,13.38
+3385,Saccha Heera Chhola,1,7.11
+3385,Shreshtha Aata,1,9.79
+3386,DCM Double Filter Sugar,1,2.0
+3386,Soyum Soya Tin(15L) V,1,39.67
+3391,Ruchi Gold Palm Pouch(1L),3,572.71
+3395,Prakash Maida,1,3.61
+3403,Bail Kolhu Pouch,1,13.62
+3409,Soyum Soya Tin(15L) V,1,1355.79
+3413,Mahakosh Soya Oil Pouch(1L),1,142.71
+3413,Prakash Aata,1,2.34
+3413,Soyum Soya Pouch,1,9.34
+3413,Steam Rice,1,12.44
+3431,Ruchi Gold Palm Pouch(1L),3,1.66
+3437,Arrarot,2,3.68
+3437,Hari Patti Selha Rice,2,2.29
+3437,Prakash Aata,2,2.71
+3442,DCM Double Filter Sugar,1,1.96
+3442,Prakash Maida,1,4.38
+3459,Siddhi Vinayak Mill Aata,3,5.19
+3463,Prakash Aata,1,1.38
+3464,Mahakosh Soya Oil Pouch(1L),1,30.07
+3464,Soyum Soya Pouch,1,338.64
+3467,Soyum Soya Tin(15L) V,1,255.68
+3468,Soyum Soya (15Lit),2,10.95
+3472,Kezar Maida,1,2.41
+3472,Kohinoor Tandoori Aata,1,1.83
+3474,Kezar Maida,1,4.8
+3474,Swastik maida,1,1.86
+3481,Prakash Aata,1,14.9
+3481,Prakash Maida,1,14.29
+3481,Soyum Soya Tin(15L) V,1,173.33
+3486,Nature Fresh Soya Tin(15L),1,2.68
+3486,Soyum Soya Tin(15L) V,1,3.32
+3492,Kezar Maida,1,1.71
+3492,Soyum Soya Pouch,1,16.93
+3500,Fortune Soya Tin(15L),1,24.66
+3522,Shreshtha Aata,1,4.27
+3528,Prakash Maida,1,2.45
+3528,Steam Rice,1,18.22
+3538,Bail Kolhu Pouch,1,4.51
+3538,Hari Patti(Green) Rice,1,30.89
+3538,Kezar Maida,1,20.59
+3538,Mahakosh Soya Oil Pouch(1L),1,25.46
+3538,Normal Sugar,1,28.37
+3538,Om Mahakaaleshwar Maida,1,12.71
+3538,Saccha Heera Chhola,1,12.07
+3538,Soyum Soya Pouch,1,7.21
+3540,Prakash Maida,1,5.25
+3545,Ruchi Gold Palm Pouch(1L),3,349.11
+3570,Adani Mota Besan,2,32.02
+3570,Kings Soya Pouch,2,27.92
+3571,Laal Gulaab Maida,2,4.87
+3571,Prakash Aata,2,47.26
+3578,Fortune Soya Tin(15L),2,5.48
+3585,Shreshtha Aata,1,4.85
+3585,Soyum Soya Pouch,1,5.29
+3614,Soyum Soya (15Lit),2,4.79
+3618,Prakash Maida,1,5.52
+3631,Anchal Vanaspati Ghee Pouch,3,7.67
+3631,Deepak Maida,3,7.13
+3631,Double Filter Sugar,3,7.86
+3631,Nature Fresh Soya Tin(15Kg),3,16.64
+3631,Shri Ram maida (50kg),3,2.01
+3634,Aashirwad Chakki Atta (10kg),3,10.02
+3634,Aashirwad Chakki Atta (5kg),3,28.23
+3634,Parivar Mustard Bottle(1L),3,35.68
+3634,Parivar Mustard Bottle(2L),3,32.04
+3634,Parivar Mustard Bottle(500ml),3,22.86
+3634,Parivar Mustard Jar(5L),3,22.56
+3634,Ruchi Gold Palm Pouch(1L),3,312.53
+3634,Tata Salt Pkt(1Kg),3,12.36
+3634,Vibhor Soya Pouch(1L),3,147.06
+3651,Normal Sugar,1,7.57
+3651,Prakash Aata,1,30.33
+3651,Prakash Maida,1,71.54
+3651,Shreshtha Aata,1,24.71
+3660,Bail Kolhu Pouch,2,7.89
+3660,DCM Double Filter Sugar,2,4.54
+3660,Kings Soya Pouch,2,8.58
+3660,Prakash Aata,2,1.39
+3660,Prakash Maida,2,2.49
+3660,Soyum Soya Pouch,2,2.31
+3661,Shreshtha Aata,1,52.48
+3663,Laal Gulaab Suji/Rava,2,3.97
+3663,Prakash Maida,2,2.89
+3663,Ruchi Gold Palm Pouch(1L),2,6.18
+3667,Bawarchi Soya Tin(15Kg),2,3.78
+3667,Kings Soya Tin(15Kg),2,7.86
+3667,Prakash Aata,2,10.22
+3667,Pukhraj Arhar Dal,2,2.33
+3673,Bail Kolhu Pouch,2,2.28
+3679,Prakash Aata,2,159.36
+3683,Prakash Aata,2,4.83
+3683,Steam Rice,2,16.14
+3700,Normal Sugar,2,180.58
+3702,DCM Double Filter Sugar,2,127.79
+3702,Fryola Palm,2,29.49
+3702,Nepali Soya,2,37.11
+3724,Bawarchi Vanaspati Tin(15Kg),2,4.18
+3724,DCM Double Filter Sugar,2,11.5
+3724,Nature Fresh Soya Tin(15L),2,19.07
+3724,Prakash Maida,2,11.14
+3733,Ruchi Gold Palm Pouch(1L),3,128.12
+3733,Vibhor Soya Pouch(1L),3,10.0
+3745,DCM Double Filter Sugar,2,2.67
+3774,Fortune Soya Tin(15L),1,234.99
+3774,Shreshtha Aata,1,167.17
+3775,DCM Double Filter Sugar,2,6.8
+3776,Kezar Aata,1,8.41
+3776,Kezar Maida,1,4.02
+3781,Kezar Maida,1,5.32
+3781,Soyum Soya Tin(15L) V,1,6.12
+3784,Kezar Maida,1,11.25
+3784,Shreshtha Aata,1,168.12
+3786,Fortune Soya Pouch(1L),1,3.4
+3786,Fortune Soya Tin(15L),1,5.81
+3786,Normal Sugar,1,24.92
+3802,Kezar Aata,1,4.07
+3802,Laal Gulaab Maida,1,7.46
+3802,Laal Gulaab Suji/Rava,1,2.44
+3802,Mahakosh Mustard Oil Pouch (1L),1,17.93
+3802,Maharaja Chakki Aata,1,25.13
+3802,Normal Sugar,1,36.02
+3802,Soyum Soya Pouch,1,29.6
+3803,Laal Gulaab Maida,1,8.66
+3803,Shreshtha Aata,1,4.08
+3808,Kezar Aata,1,53.95
+3808,Kezar Maida,1,17.11
+3808,Mahakosh Soya Oil Pouch(1L),1,91.61
+3808,Soyum Soya Pouch,1,145.7
+3809,Tata Salt Pkt(1Kg),1,8.54
+3820,Galaxy rice,3,4.0
+3825,Aashirwad Chakki Atta (10kg),3,7.82
+3825,Aashirwad Chakki Atta (5kg),3,6.02
+3825,Oil Ruchi Gold Palm Pouch (770Gm),3,50.0
+3825,Ruchi Gold Palm Pouch(1L),3,284.47
+3825,Vibhor Soya Pouch(1L),3,13.18
+3830,Rajdhani Barik Besan,3,7.66
+3830,Rath Vanaspati Ghee Pouch(1L),3,2.58
+3839,Normal Sugar,1,15.7
+3839,Soyum Soya Pouch,1,12.15
+3839,Soyum Soya Tin(15L) V,1,96.52
+3842,Normal Sugar,1,96.69
+3848,Maharaja Chakki Aata,1,38.59
+3852,Fortune Soya Pouch(1L),3,6.64
+3852,Oil Ruchi Gold Palm Pouch (770Gm),3,71.88
+3852,Parivar Mustard Bottle(1L),3,13.76
+3852,Parivar Mustard Bottle(2L),3,13.37
+3852,Ruchi Gold Palm Pouch(1L),3,189.4
+3852,Vibhor Soya Pouch(1L),3,8.01
+3856,Normal Sugar,1,73.72
+3856,Soyum Soya Pouch,1,61.32
+3860,Mahakosh Mustard Oil Pouch (1L),1,10.27
+3877,Fortune Soya Pouch(1L),1,3.58
+3877,Shreshtha Aata,1,14.05
+3896,Shreshtha Aata,1,7.67
+3896,Steam Rice,1,297.26
+3913,Kohinoor Tandoori Aata,2,31.46
+3913,Normal Sugar,2,505.37
+3913,Soyum Soya (15Lit),2,7.12
+3913,Surabhi Maida,2,50.74
+3915,Ruchi Gold Palm Pouch(1L),1,17.27
+3920,Shreshtha Aata,1,10.2
+3920,Soyum Soya Tin(15L) V,1,57.76
+4026,Laal Gulaab Maida,1,23.45
+4026,Normal Sugar,1,81.06
+4026,Shreshtha Aata,1,41.02
+4036,Soyum Soya (15Lit),2,1.41
+4060,Laal Gulaab Maida,2,8.5
+4060,Laal Gulaab Suji/Rava,2,7.67
+4060,Mahakosh Soya Oil Pouch(1L),2,9.05
+4060,Prakash Maida,2,51.29
+4060,Ruchi Ghee Pouch (1L),2,14.35
+4100,Fortune Soya Tin(15L),1,12.29
+4100,Soyum Soya Tin(15L) V,1,5.93
+4113,Soyum Soya (15Lit),2,605.5
+4116,Shreshtha Aata,1,3.64
+4117,Adani Mota Besan,2,7.39
+4117,Prakash Maida,2,1.92
+4118,DCM Double Filter Sugar,1,4.09
+4118,Prakash Maida,1,6.37
+4123,Ruchi Gold Palm Pouch(1L),3,39.27
+4131,DCM Double Filter Sugar,2,124.17
+4131,Fortune Soya Pouch(1L),2,112.25
+4131,Malai Maida,2,16.06
+4136,Oil Ruchi Gold Palm Pouch (770Gm),3,1979.55
+4136,Ruchi Gold Palm Pouch(1L),3,606.69
+4155,Normal Sugar,1,31.74
+4155,Tata Salt Pkt(1Kg),1,7.95
+4167,Fortune Soya Tin(15L),1,6.3
+4188,Laal Gulaab Maida,1,35.79
+4206,Fortune Soya Pouch(1L),1,6.89
+4206,Fortune Soya Tin(15L),1,31.99
+4206,Laal Gulaab Maida,1,3.89
+4206,Maharaja Chakki Aata,1,9.94
+4206,Normal Sugar,1,17.39
+4215,Normal Sugar,1,9.67
+4216,Kezar Aata,1,47.21
+4216,Laal Gulaab Maida,1,9.93
+4216,Maharaja Chakki Aata,1,20.6
+4216,Normal Sugar,1,13.37
+4221,Laal Gulaab Maida,1,12.02
+4230,Kezar Maida,1,15.83
+4230,Normal Sugar,1,2.03
+4230,Oil Ruchi Gold Palm Pouch (770Gm),1,5.62
+4230,Om Mahakaaleshwar Maida,1,11.1
+4230,Prakash Aata,1,4.14
+4230,Ruchi Gold Palm Pouch(1L),1,23.16
+4230,Swastik maida,1,4.38
+4249,Mahakosh Soya Oil Pouch(1L),2,0.93
+4249,Oil Ruchi Gold Palm Pouch (770Gm),2,1.89
+4249,Prakash Maida,2,9.58
+4249,Ruchi Gold Palm Pouch(1L),2,2.29
+4268,Bail Kolhu Pouch,2,37.75
+4268,Fortune Soya Pouch(1L),2,12.46
+4268,Kings Soya Pouch,2,5.74
+4268,Normal Sugar,2,10.78
+4272,Arrarot,3,38.71
+4272,Double Chabhi Rice,3,5.18
+4272,Ruchi Gold Palm Pouch(1L),3,4.82
+4272,Shri Ram maida (50kg),3,33.14
+4272,Siddhi Vinayak Mill Aata,3,36.3
+4275,Normal Sugar,2,9.44
+4275,Soyum Soya (15Lit),2,12.89
+4281,Nourish Sunflower Pouch,2,33.92
+4295,Bawarchi Vanaspati Balti KG,2,5.75
+4295,DCM Double Filter Sugar,2,16.79
+4306,Normal Sugar,2,5.14
+4316,DCM Double Filter Sugar,2,33.24
+4336,Ruchi Gold Palm Pouch(1L),3,624.34
+4336,Vibhor Soya Pouch(1L),3,42.64
+4340,Fortune Soya Pouch(1L),1,222.57
+4345,Prakash Maida,2,7.23
+4347,Kezar Aata,1,2.04
+4347,Shreshtha Aata,1,4.1
+4379,Bawarchi Vanaspati Balti LTR,4,3.2
+4379,Masodha Double Filter Sugar,4,4.28
+4379,SAPNA GOLD MAIDA,4,9.07
+4380,Bawarchi Vanaspati Tin (15Ltr),4,3.65
+4380,Fortune Soya Tin(15L),4,17.22
+4380,Masodha Double Filter Sugar,4,14.96
+4380,SAPNA GOLD AATA,4,2.87
+4380,SAPNA GOLD MAIDA,4,14.28
+4380,Saccha Heera Chhola,4,7.98
+4383,Ruchi Gold Palm Pouch(1L),4,10.11
+4420,Fortune Soya Tin(15L),4,5.19
+4420,SAPNA GOLD MAIDA,4,2.95
+4491,Bawarchi Vanaspati Tin (15Ltr),4,8.25
+4491,Madhur Gold Maida,4,16.29
+4491,Masodha Double Filter Sugar,4,4.63
+4491,SAPNA GOLD MAIDA,4,42.53
+4500,Mahakosh Soya Oil Pouch(1L),3,17.65
+4504,Masodha Double Filter Sugar,4,2.8
+4536,Nepali Soya Pouch,4,2.26
+4547,Bawarchi Vanaspati Balti LTR,4,7.94
+4547,Masodha Double Filter Sugar,4,3.65
+4547,Matar,4,65.54
+4547,Ruchi Gold Palm Tin(15kg),4,5.38
+4547,SAPNA GOLD AATA,4,2.17
+4547,SAPNA GOLD MAIDA,4,6.76
+4577,Ruchi Gold Palm Pouch(1L),4,17.08
+4577,SAPNA GOLD MAIDA,4,7.38
+4581,SAPNA GOLD AATA,4,7.22
+4584,Tata Salt Pkt(1Kg),3,4.59
+4584,Vibhor Soya Pouch(1L),3,48.72
+4599,Tata Salt Pkt(1Kg),3,12.84
+4601,Aashirwad Chakki Atta (5kg),3,102.02
+4601,Oil Ruchi Gold Palm Pouch (770Gm),3,905.24
+4601,Parivar Mustard Bottle(1L),3,68.15
+4601,Parivar Mustard Bottle(2L),3,17.14
+4601,Parivar Mustard Bottle(500ml),3,17.96
+4601,Parivar Mustard Jar(5L),3,10.76
+4601,Ruchi Gold Palm Pouch(1L),3,270.45
+4601,Tata Salt Pkt(1Kg),3,12.34
+4601,Vibhor Soya Pouch(1L),3,201.57
+4613,Ruchi Gold Palm Pouch(1L),3,31.67
+4616,Madhur Gold Maida,4,6.44
+4616,Matar,4,4.53
+4619,Bawarchi Vanaspati Tin (15Ltr),4,9.61
+4624,Masodha Double Filter Sugar,4,4.07
+4624,Nepali Soya Tin,4,5.85
+4624,Ruchi Gold Palm Tin(15kg),4,5.32
+4624,SAPNA GOLD MAIDA,4,4.44
+4630,Aashirwad Chakki Atta (10kg),3,7.88
+4630,Aashirwad Chakki Atta (5kg),3,8.88
+4630,Single Filter Sugar,3,3.59
+4631,Nature Fresh Soya Tin(15L),3,1.72
+4633,Bawarchi Vanaspati Pouch 1ltr,4,6.22
+4633,Masodha Double Filter Sugar,4,3.85
+4633,SAPNA GOLD MAIDA,4,4.57
+4665,Fortune Kacchi Ghani,4,11.54
+4665,Hum Tum Rice,4,7.06
+4665,Kingfisher Arhar Dal,4,7.49
+4665,SAPNA GOLD AATA,4,22.8
+4678,Fortune Soya Tin(15L),4,5.14
+4684,Prakash Aata,1,18.55
+4711,Madhur Gold Maida,4,6.47
+4711,Masodha Double Filter Sugar,4,9.21
+4711,Soyum Soya (15Lit),4,0.0
+4714,Bail Kolhu Pouch,2,11.22
+4714,Prakash Aata,2,10.16
+4714,Soyum Soya Pouch,2,6.77
+4717,Ruchi Gold Palm Pouch(1L),4,5.22
+4762,Fortune Soya Pouch(1L),2,2.6
+4762,Kings Soya Pouch,2,6.09
+4762,Laal Gulaab Suji/Rava,2,19.29
+4768,Masodha Double Filter Sugar,4,300.87
+4768,SAPNA GOLD AATA,4,27.12
+4773,Fortune Soya Tin(15L),4,14.7
+4773,Masodha Double Filter Sugar,4,5.94
+4774,Bail Kohlu Mustard Bottle(1L),4,2.89
+4781,Arrarot,3,17.66
+4781,Double Chabhi Rice,3,12.55
+4781,Double Filter Sugar,3,9.2
+4781,Ruchi Gold Palm Pouch(1L),3,25.53
+4782,Single Filter Sugar,3,1.98
+4810,Aashirwad Chakki Atta (10kg),3,5.28
+4810,Aashirwad Chakki Atta (5kg),3,9.66
+4810,Single Filter Sugar,3,5.91
+4810,Tata Salt Pkt(1Kg),3,5.18
+4842,Bawarchi Vanaspati Pouch 1ltr,2,6.96
+4842,Kings Soya Pouch,2,32.49
+4842,Normal Sugar,2,14.05
+4842,Prakash Aata,2,29.61
+4842,Prakash Maida,2,19.53
+4842,Soyum Soya Pouch,2,4.27
+4842,Tata Salt Pkt(1Kg),2,3.44
+4843,Fortune Soya Tin(15L),4,8.06
+4896,Shreshtha Aata,1,13.35
+4903,Bawarchi Vanaspati Pouch 1ltr,4,14.7
+4903,Masodha Double Filter Sugar,4,24.9
+4903,Matar,4,20.96
+4906,Masodha Double Filter Sugar,4,5.47
+4910,Madhur Gold Maida,4,2.54
+4922,Shreshtha Aata,1,25.47
+4928,Ruchi Gold Palm Pouch(1L),4,51.48
+4928,SAPNA GOLD MAIDA,4,49.5
+4950,Bawarchi Vanaspati Tin (15Ltr),4,29.07
+4950,Masodha Double Filter Sugar,4,16.04
+4950,Ruchi Gold Palm Tin(15kg),4,74.09
+4950,SAPNA GOLD MAIDA,4,4.43
+4959,Bawarchi Vanaspati Tin (15Ltr),4,3.16
+4959,Masodha Double Filter Sugar,4,6.3
+4964,Madhur Gold Maida,4,8.47
+4967,Bawarchi Vanaspati Pouch 1ltr,4,14.66
+4967,Best Choice Soya Tin (15Kg),4,6.85
+4967,Masodha Double Filter Sugar,4,35.65
+4967,SAPNA GOLD MAIDA,4,41.88
+4968,Bawarchi Vanaspati Pouch 1ltr,4,2.82
+4968,Best Choice Soya Tin (15Kg),4,3.86
+4968,Masodha Double Filter Sugar,4,5.11
+4968,Nepali Soya Tin,4,8.2
+4968,SAPNA GOLD MAIDA,4,6.64
+4969,Fortune Soya Pouch(1L),4,3.77
+4969,Masodha Double Filter Sugar,4,6.49
+4969,SAPNA GOLD MAIDA,4,4.74
+4982,SAPNA GOLD MAIDA,4,4.64
+4993,Aashirwad Chakki Atta (10kg),3,62.03
+4993,Aashirwad Chakki Atta (5kg),3,20.94
+5032,Kezar Aata,1,2.52
+5032,Normal Sugar,1,17.96
+5032,Soyum Soya Pouch,1,9.41
+5044,Aashirwad Chakki Atta (10kg),3,1.67
+5044,Aashirwad Chakki Atta (5kg),3,4.03
+5044,Fortune Soya Pouch(1L),3,2.32
+5044,Ruchi Gold Palm Pouch(1L),3,38.08
+5051,Soyum Soya Tin(15L) V,1,157.76
+5052,SAPNA GOLD MAIDA,4,1.29
+5065,Madhur Gold Aata,4,5.45
+5065,Madhur Gold Maida,4,3.92
+5069,Nourish Sunflower Pouch,2,2.52
+5070,Aashirwad Chakki Atta (10kg),3,230.55
+5070,Aashirwad Chakki Atta (5kg),3,66.88
+5082,Shreshtha Aata,1,5.05
+5086,Aashirwad Chakki Atta (10kg),3,19.8
+5086,Tata Salt Pkt(1Kg),3,13.27
+5087,Ruchi Gold Palm Pouch(1L),3,8.58
+5091,Bail Kolhu Pouch,2,8.36
+5091,Normal Sugar,2,6.62
+5091,Prakash Aata,2,1.93
+5092,Tata Salt Pkt(1Kg),3,6.47
+5100,Soyum Soya Tin(15L) V,1,57.65
+5105,DCM Double Filter Sugar,2,14.66
+5105,Fortune Soya Pouch(1L),2,19.13
+5105,Fortune Soya Tin(15L),2,6.06
+5105,Malai Maida,2,16.13
+5112,Fryola Palm,2,13.25
+5117,Aashirwad Chakki Atta (10kg),3,5.95
+5117,Aashirwad Chakki Atta (5kg),3,7.95
+5117,Fortune Soya Pouch(1L),3,2.52
+5117,Parivar Mustard Bottle(1L),3,8.17
+5117,Parivar Mustard Bottle(2L),3,4.97
+5136,Fortune Soya Pouch(1L),2,94.21
+5150,Arhar Dal,1,62.44
+5150,Shreshtha Aata,1,9.3
+5177,Ruchi Gold Palm Pouch(1L),4,13.78
+5178,Aashirwad Chakki Atta (5kg),3,3.72
+5180,AJMAL BASMATI RICE,4,3.13
+5194,Aashirwad Chakki Atta (5kg),3,9.11
+5194,Parivar Mustard Bottle(1L),3,4.35
+5198,Bail Kolhu Pouch,2,6.72
+5198,Prakash Aata,2,3.5
+5210,Kezar Maida,1,5.26
+5210,Shreshtha Aata,1,9.7
+5235,Aashirwad Chakki Atta (5kg),3,8.07
+5235,Deepak Maida,3,10.23
+5235,Parivar Pasand Chakki Aata (50kg),3,6.97
+5235,Reliance Salt Pkt(1Kg),3,6.79
+5235,Ruchi Gold Palm Pouch(1L),3,116.09
+5235,Shri Ram maida (50kg),3,22.52
+5235,Single Filter Sugar,3,9.75
+5235,Tata Salt Pkt(1Kg),3,11.38
+5236,Aashirwad Chakki Atta (10kg),3,3.39
+5236,Aashirwad Chakki Atta (5kg),3,6.82
+5236,Ruchi Gold Palm Pouch(1L),3,49.1
+5236,Tata Salt Pkt(1Kg),3,4.37
+5272,Aashirwad Chakki Atta (10kg),3,7.77
+5272,Tata Salt Pkt(1Kg),3,19.59
+5282,SAPNA GOLD MAIDA,4,1.76
+5283,Masodha Double Filter Sugar,4,17.17
+5287,Prakash Aata,2,2.6
+5289,Independence Soya Oil Pouch(1L),3,485.55
+5292,Deepak Maida,3,11.08
+5292,Double Filter Sugar,3,3.68
+5292,Nature Fresh Soya Tin(15Kg),3,5.43
+5292,Shri Ram maida (50kg),3,5.99
+5298,Prakash Maida,2,20.85
+5298,Ruchi Gold Palm Pouch(1L),2,6.15
+5298,Soyum Soya (15Lit),2,18.07
+5299,Normal Sugar,2,7.72
+5299,Prakash Aata,2,4.66
+5305,Normal Sugar,2,4.8
+5305,Prakash Aata,2,7.89
+5306,Normal Sugar,2,8.0
+5306,Prakash Aata,2,10.11
+5306,Prakash Maida,2,2.18
+5306,Soyum Soya (15Lit),2,10.61
+5309,Bail Kolhu Pouch,2,1.87
+5309,Fortune Soya Pouch(1L),2,1.42
+5309,Laal Gulaab Suji/Rava,2,1.81
+5309,Normal Sugar,2,2.65
+5309,Prakash Aata,2,27.77
+5309,Prakash Maida,2,2.57
+5311,Masodha Double Filter Sugar,4,3.52
+5319,Prakash Aata,2,5.24
+5322,Normal Sugar,2,70.08
+5322,Prakash Aata,2,73.23
+5322,Prakash Maida,2,15.78
+5325,Best Choice Soya Tin (15Kg),4,3.58
+5325,Fortune Besan (500 Gm),4,3.83
+5340,Prakash Aata,2,2.64
+5354,Aashirwad Chakki Atta (10kg),3,2.0
+5354,Aashirwad Chakki Atta (5kg),3,3.14
+5363,Kezar Maida,2,1.31
+5363,Laal Gulaab Maida,2,1.81
+5363,Normal Sugar,2,8.05
+5363,Prakash Maida,2,5.39
+5363,Ruchi Gold Palm Pouch(1L),2,7.45
+5363,Soyum Soya Pouch,2,2.52
+5365,Aashirwad Chakki Atta (5kg),3,3.79
+5365,Deepak Maida,3,8.25
+5365,Fortune Soya Pouch(1L),3,34.39
+5365,Oil Ruchi Gold Palm Pouch (770Gm),3,34.09
+5365,Parivar Mustard Bottle(1L),3,26.74
+5365,Parivar Mustard Bottle(2L),3,13.52
+5365,Parivar Mustard Bottle(500ml),3,21.6
+5365,Parivar Mustard Jar(5L),3,5.4
+5365,Parivar Pasand Chakki Aata (50kg),3,6.69
+5365,Ruchi Gold Palm Pouch(1L),3,139.2
+5365,Shri Ram maida (50kg),3,2.46
+5365,Tata Salt Pkt(1Kg),3,7.67
+5365,Vibhor Soya Pouch(1L),3,44.29
+5370,Prakash Aata,2,1.72
+5372,Bail Kolhu Pouch,2,30.9
+5372,DCM Double Filter Sugar,2,11.49
+5388,Arrarot,2,5.65
+5388,Laal Gulaab Maida,2,9.88
+5391,Laal Gulaab Suji/Rava,2,23.19
+5391,Normal Sugar,2,5.98
+5404,Bail Kolhu Pouch,2,2.48
+5404,Normal Sugar,2,3.52
+5404,Prakash Aata,2,9.07
+5404,Shreshtha Aata,2,9.34
+5406,Normal Sugar,2,39.41
+5406,Prakash Aata,2,22.94
+5406,Prakash Maida,2,4.03
+5408,Bail Kolhu Pouch,2,26.59
+5408,Fortune Soya Pouch(1L),2,29.7
+5408,Kings Soya Pouch,2,3.13
+5408,Laal Gulaab Suji/Rava,2,10.24
+5408,Nepali Soya Pouch,2,21.0
+5408,Normal Sugar,2,19.93
+5408,Prakash Aata,2,18.94
+5408,Prakash Maida,2,11.13
+5408,Ruchi Gold Palm Pouch(1L),2,4.32
+5408,Soyum Soya (15Lit),2,32.33
+5408,Soyum Soya Pouch,2,19.29
+5408,Tata Salt Pkt(1Kg),2,15.3
+5410,Normal Sugar,2,5.62
+5410,Prakash Aata,2,8.34
+5411,Bail Kolhu Pouch,2,29.32
+5411,Normal Sugar,2,60.93
+5411,Prakash Aata,2,94.53
+5414,Normal Sugar,2,3.44
+5414,Prakash Aata,2,2.16
+5423,Bail Kolhu Pouch,2,7.73
+5423,Normal Sugar,2,1.86
+5423,Prakash Aata,2,13.2
+5429,Normal Sugar,2,7.25
+5429,Prakash Aata,2,1.66
+5431,Aashirwad Chakki Atta (10kg),3,9.5
+5431,Aashirwad Chakki Atta (5kg),3,4.93
+5445,Normal Sugar,2,5.99
+5455,Prakash Aata,2,4.61
+5458,Best Choice Palm Tin(15Kg),3,7.79
+5468,Prakash Aata,2,5.83
+5477,DCM Double Filter Sugar,2,7.9
+5479,Single Filter Sugar,3,1.89
+5479,Tata Salt Pkt(1Kg),3,2.66
+5501,Shreshtha Aata,2,30.13
+5505,Bail Kolhu Pouch,2,29.71
+5505,Fortune Soya Pouch(1L),2,25.12
+5505,Fortune Soya Tin(15L),2,19.8
+5505,Normal Sugar,2,25.18
+5505,Prakash Aata,2,28.72
+5513,Prakash Aata,2,149.73
+5513,Prakash Maida,2,17.0
+5520,Prakash Aata,2,7.25
+5526,Prakash Aata,2,6.03
+5533,Bail Kolhu Pouch,2,25.96
+5533,Fortune Soya Pouch(1L),2,5.4
+5533,Kings Soya Pouch,2,10.17
+5533,Soyum Soya Pouch,2,4.25
+5538,Matar,2,4.32
+5538,Soyum Soya Pouch,2,6.02
+5540,Anchal Vanaspati Ghee Pouch,3,4.35
+5540,Best Choice Palm Tin(15Kg),3,8.84
+5540,Deepak Aata,3,5.83
+5540,Parivar Pasand Chakki Aata (50kg),3,4.41
+5540,Rajdhani Barik Besan,3,28.39
+5540,Shri Ram maida (50kg),3,1.72
+5542,Laal Gulaab Maida,2,4.18
+5542,Nepali Soya Pouch,2,46.41
+5542,Normal Sugar,2,10.03
+5542,Prakash Aata,2,54.1
+5542,Prakash Maida,2,18.88
+5542,Soyum Soya Pouch,2,4.13
+5543,Kings Soya Pouch,2,7.84
+5543,Prakash Aata,2,9.91
+5546,Kohinoor Tandoori Aata,2,30.63
+5547,Bail Kolhu Pouch,2,2.44
+5547,Normal Sugar,2,1.25
+5547,Prakash Aata,2,2.43
+5552,DCM Double Filter Sugar,2,29.86
+5556,Adani Patla Besan,2,5.54
+5558,Bail Kolhu Pouch,2,1.52
+5558,Normal Sugar,2,7.22
+5558,Prakash Aata,2,11.14
+5558,Prakash Maida,2,1.85
+5576,Fortune Soya Pouch(1L),2,4.04
+5576,Normal Sugar,2,9.45
+5576,Nourish Sunflower Pouch,2,4.67
+5576,Prakash Aata,2,13.55
+5576,Prakash Maida,2,10.38
+5576,Shreshtha Aata,2,37.39
+5576,Tata Salt Pkt(1Kg),2,2.74
+5581,Aashirwad Chakki Atta (10kg),3,16.73
+5581,Aashirwad Chakki Atta (5kg),3,15.75
+5581,Fortune Kacchi Ghani Bottle(1L),3,1.94
+5581,Fortune Soya Pouch(1L),3,4.71
+5581,Parivar Mustard Bottle(1L),3,9.03
+5581,Parivar Mustard Bottle(2L),3,9.03
+5581,Parivar Mustard Jar(5L),3,13.96
+5584,Laal Gulaab Suji/Rava,2,2.66
+5588,Aashirwad Chakki Atta (10kg),3,3.92
+5588,Aashirwad Chakki Atta (5kg),3,6.95
+5590,Ruchi Gold Palm Pouch(1L),3,643.74
+5590,Tata Salt Pkt(1Kg),3,26.39
+5603,Aashirwad Chakki Atta (10kg),3,6.53
+5605,Normal Sugar,2,1.82
+5605,Shreshtha Aata,2,3.4
+5608,Kezar Maida,2,4.66
+5609,DCM Double Filter Sugar,2,10.05
+5609,Prakash Aata,2,5.78
+5609,Tata Salt Pkt(1Kg),2,2.29
+5620,Bail Kolhu Pouch,2,7.67
+5620,Normal Sugar,2,4.88
+5620,Prakash Aata,2,111.78
+5623,Masodha Double Filter Sugar,4,7.36
+5626,Normal Sugar,2,2.3
+5626,Prakash Aata,2,6.09
+5640,Prakash Aata,2,27.79
+5640,Prakash Maida,2,37.81
+5651,Fortune Soya Tin(15L),4,319.48
+5663,SAPNA GOLD MAIDA,4,5.43
+5684,Atish Maida,2,34.16
+5684,Laal Gulaab Maida,2,12.05
+5709,Fortune Soya Tin(15L),4,4.18
+5709,SAPNA GOLD AATA,4,4.2
+5714,Prakash Aata,2,19.87
+5726,Normal Sugar,4,3.74
+5736,Bail Kolhu Pouch,2,2.67
+5736,Prakash Aata,2,9.47
+5742,Kezar Maida,1,10.36
+5742,Maharaja Chakki Aata,1,29.54
+5742,Raag Gold Palm Pouch,1,41.45
+5742,Shreshtha Aata,1,22.52
+5743,Madhur Gold Maida,4,201.8
+5756,Fortune Soya Tin(15L),4,2.28
+5756,SAPNA GOLD MAIDA,4,3.91
+5776,Deepak Aata,3,26.25
+5776,Double Filter Sugar,3,36.56
+5776,Mahakosh Soya Oil Pouch(1L),3,10.3
+5776,Nature Fresh Soya Tin(15L),3,45.91
+5777,Shreshtha Aata,1,2.66
+5783,Bail Kolhu Pouch,2,2.58
+5783,Maggie Noodles,2,2.62
+5783,Normal Sugar,2,3.66
+5783,Prakash Aata,2,12.88
+5783,Prakash Maida,2,6.81
+5783,Soyum Soya Pouch,2,7.32
+5791,Bail Kolhu Pouch,2,3.25
+5791,Fortune Soya Pouch(1L),2,2.61
+5792,Normal Sugar,2,185.63
+5793,Masodha Double Filter Sugar,4,92.14
+5803,Madhur Gold Maida,4,6.78
+5803,Masodha Double Filter Sugar,4,5.34
+5809,Ruchi Gold Palm Pouch(1L),3,395.37
+5809,Vibhor Soya Pouch(1L),3,60.63
+5822,Prakash Aata,2,218.15
+5824,Aashirwad Chakki Atta (10kg),3,10.31
+5824,Aashirwad Chakki Atta (5kg),3,31.55
+5826,Masodha Double Filter Sugar,4,4.31
+5829,Fortune Soya Pouch(1L),3,43.07
+5832,Madhur Gold Maida,4,37.71
+5832,Masodha Double Filter Sugar,4,7.72
+5832,Normal Sugar,4,17.21
+5832,Tata Salt Pkt(1Kg),4,6.09
+5845,Masodha Double Filter Sugar,4,93.15
+5862,Best Choice Soya Tin (15Kg),4,6.42
+5862,Masodha Double Filter Sugar,4,3.18
+5871,Arrarot,2,5.24
+5871,Laal Gulaab Maida,2,12.82
+5871,Normal Sugar,2,40.62
+5871,Prakash Aata,2,20.39
+5871,Prakash Maida,2,7.59
+5872,Normal Sugar,4,8.11
+5902,Shreshtha Aata,1,11.84
+5904,Shreshtha Aata,1,35.04
+5913,Aashirwad Chakki Atta (10kg),3,4.05
+5925,Kings Soya Pouch,2,2.04
+5928,Deepak Aata,3,0.67
+5928,Deepak Maida,3,1.36
+5928,Double Chabhi Rice,3,10.76
+5928,Oil Ruchi Gold Palm Pouch (770Gm),3,67.24
+5928,Ruchi Gold Palm Pouch(1L),3,65.37
+5928,Shri Ram maida (50kg),3,14.05
+5931,Normal Sugar,2,47.9
+5931,Prakash Aata,2,75.82
+5931,Prakash Maida,2,9.46
+5931,Soyum Soya (15Lit),2,79.86
+5935,Prakash Maida,2,5.0
+5939,Ruchi Gold Palm Pouch(1L),3,218.47
+5940,Kezar Aata,1,11.21
+5940,Kezar Maida,1,4.3
+5940,Normal Sugar,1,2.04
+5942,Deepak Maida,3,8.36
+5942,Double Filter Sugar,3,8.2
+5942,Nature Fresh Soya Tin(15Kg),3,16.97
+5942,Rath Vanaspati Ghee Tin(15Kg),3,7.46
+5943,Normal Sugar,1,1.82
+5965,DCM Double Filter Sugar,1,5.45
+5965,Prakash Maida,1,7.75
+5984,Bail Kolhu Pouch,2,5.86
+5984,Normal Sugar,2,12.27
+5984,Prakash Aata,2,13.55
+5984,Prakash Maida,2,9.54
+5984,Soyum Soya Pouch,2,13.99
+6013,Normal Sugar,1,3.99
+6013,Shreshtha Aata,1,10.0
+6013,Tata Salt Pkt(1Kg),1,6.17
+6026,Normal Sugar,2,3.61
+6026,Prakash Aata,2,9.19
+6028,Masodha Double Filter Sugar,4,55.89
+6028,SAPNA GOLD MAIDA,4,10.24
+6042,Bail Kolhu Pouch,2,22.02
+6042,Fortune Soya Pouch(1L),2,3.8
+6042,Normal Sugar,2,15.33
+6042,Prakash Aata,2,8.96
+6047,Fortune Soya Tin(15L),4,3.37
+6053,Laal Gulaab Suji/Rava,2,3.56
+6058,Bail Kolhu Pouch,1,13.82
+6058,Fortune Soya Pouch(1L),1,1.73
+6058,Fortune Soya Tin(15L),1,46.33
+6058,Laal Gulaab Maida,1,14.13
+6058,Normal Sugar,1,19.24
+6058,Ruchi Gold Palm Pouch(1L),1,6.34
+6060,Best Choice Palm Tin(15Kg),3,2.1
+6060,Double Filter Sugar,3,46.78
+6060,Fortune First Choice Maida,3,0.9
+6060,Nature Fresh Soya Tin(15L),3,2.44
+6060,Rath Vanaspati Ghee Tin(15Kg),3,15.36
+6082,Madhur Gold Maida,4,12.02
+6091,Double Filter Sugar,3,7.06
+6091,Nature Fresh Soya Tin(15L),3,14.64
+6091,Rajdhani Barik Besan,3,9.84
+6097,Anchal Vanaspati Ghee Pouch,3,32.92
+6097,Deepak Maida,3,10.73
+6097,Double Filter Sugar,3,3.24
+6097,Oil Ruchi Gold Palm Pouch (770Gm),3,27.1
+6097,Rajdhani Barik Besan,3,81.9
+6097,Ruchi Gold Palm Pouch(1L),3,28.89
+6097,Shri Ram maida (50kg),3,4.87
+6103,Best Choice Palm Tin(15Kg),3,5.76
+6103,Rajdhani Barik Besan,3,8.04
+6105,Shreshtha Aata,1,1.45
+6119,Madhur Gold Maida,4,1.73
+6119,Masodha Double Filter Sugar,4,7.29
+6129,Normal Sugar,2,18.75
+6129,Prakash Aata,2,2.13
+6130,Kings Soya Pouch,2,26.92
+6138,Bail Kolhu Pouch,2,28.05
+6138,Fortune Soya Pouch(1L),2,2.89
+6139,Single Filter Sugar,3,3.08
+6139,Vibhor Soya Pouch(1L),3,4.46
+6153,Bail Kolhu Pouch,2,10.46
+6153,Fortune Soya Pouch(1L),2,8.25
+6153,Kings Soya Pouch,2,6.97
+6153,Normal Sugar,2,7.2
+6153,Shreshtha Aata,2,16.93
+6158,Shreshtha Aata,1,2.24
+6158,Steam Rice,1,10.42
+6162,Masodha Double Filter Sugar,4,26.65
+6167,Masodha Double Filter Sugar,4,6.91
+6171,SAPNA GOLD MAIDA,4,7.24
+6183,Aashirwad Chakki Atta (10kg),3,1.19
+6183,Aashirwad Chakki Atta (5kg),3,1.1
+6194,Aashirwad Chakki Atta (10kg),3,7.63
+6194,Aashirwad Chakki Atta (5kg),3,6.22
+6194,Ruchi Gold Palm Pouch(1L),3,26.31
+6194,Tata Salt Pkt(1Kg),3,3.8
+6201,Fortune Soya Pouch(1L),2,3.1
+6218,Bawarchi Vanaspati Pouch 1ltr,4,5.77
+6218,Madhur Gold Maida,4,19.12
+6218,Masodha Double Filter Sugar,4,35.25
+6218,Ruchi Gold Palm Pouch(1L),4,22.71
+6219,DCM Double Filter Sugar,2,46.15
+6220,Laal Gulaab Suji/Rava,2,26.01
+6220,Ruchi Gold Palm Pouch(1L),2,1.51
+6223,Prakash Aata,2,3.77
+6233,Fortune Soya Tin(15L),4,8.91
+6240,Prakash Aata,2,7.89
+6242,Ruchi Gold Palm Pouch(1L),2,3.35
+6248,Bail Kohlu Mustard Bottle(2L),2,6.55
+6248,Normal Sugar,2,7.15
+6257,Madhur Gold Maida,4,14.46
+6257,Masodha Double Filter Sugar,4,9.99
+6257,Matar,4,2.25
+6263,Masodha Double Filter Sugar,4,6.91
+6278,Masodha Double Filter Sugar,4,18.84
+6282,Prakash Aata,1,5.64
+6282,Soyum Soya Pouch,1,22.2
+6282,Steam Rice,1,7.07
+6286,Nepali Soya,2,9.08
+6286,Prakash Maida,2,1.96
+6286,Soyum Soya (15Lit),2,1.13
+6290,Hum Tum Rice,4,9.65
+6290,Kingfisher Arhar Dal,4,6.83
+6290,Madhur Gold Aata,4,16.68
+6290,Madhur Gold Maida,4,3.54
+6290,Masodha Double Filter Sugar,4,48.93
+6290,Ruchi Gold Palm Pouch(1L),4,25.02
+6300,SAPNA GOLD MAIDA,4,3.48
+6308,Hum Tum Rice,4,8.53
+6316,Soyum Soya (15Lit),2,3.54
+6331,Ruchi Gold Palm Pouch(1L),3,127.89
+6333,Aashirwad Chakki Atta (10kg),3,16.17
+6359,Shreshtha Aata,1,19.14
+6360,Fortune Soya Tin(15L),4,4.41
+6360,Masodha Double Filter Sugar,4,7.82
+6360,Normal Sugar,4,14.02
+6360,Safed Matar Dal,4,1.76
+6365,Madhur Gold Maida,4,14.4
+6370,Best Choice Soya Tin (15Kg),4,39.17
+6370,Chana Dal,4,1.41
+6375,Normal Sugar,4,24.2
+6379,Kingfisher Arhar Dal,4,8.26
+6401,Kezar Aata,1,12.69
+6401,Kezar Maida,1,11.54
+6401,Laal Gulaab Suji/Rava,1,5.46
+6401,Normal Sugar,1,5.86
+6401,Soyum Soya Tin(15L) V,1,3.91
+6421,Bail Kolhu Pouch,2,11.32
+6421,Normal Sugar,2,8.06
+6421,Prakash Aata,2,19.07
+6421,Soyum Soya Pouch,2,4.89
+6422,Kings Soya Pouch,2,12.97
+6422,Kohinoor Tandoori Aata,2,3.74
+6422,Shreshtha Aata,2,5.18
+6485,Ruchi Gold Palm Pouch(1L),2,4.42
+6500,Normal Sugar,2,5.34
+6510,Prakash Maida,2,2.99
+6533,SAPNA GOLD MAIDA,4,16.46
+6542,Prakash Aata,2,6.89
+6552,Masodha Double Filter Sugar,4,13.22
+6552,Normal Sugar,4,15.91
+6552,Ruchi Gold Palm Pouch(1L),4,31.83
+6573,DCM Double Filter Sugar,2,7.65
+6573,Fortune Soya Tin(15L),2,5.49
+6573,Nepali Soya Tin,2,5.9
+6573,Prakash Maida,2,3.1
+6584,Normal Sugar,2,10.59
+6584,Prakash Aata,2,4.22
+6601,Shreshtha Aata,1,6.96
+6603,Prakash Maida,2,4.22
+6628,Normal Sugar,2,3.07
+6628,Prakash Aata,2,11.16
+6632,Bail Kolhu Pouch,2,4.12
+6637,Bawarchi Vanaspati Pouch 1ltr,2,19.1
+6637,Prakash Maida,2,9.91
+6638,Normal Sugar,2,1.09
+6649,Masodha Double Filter Sugar,4,14.25
+6651,Masodha Double Filter Sugar,4,44.82
+6669,Normal Sugar,1,4.64
+6669,Shreshtha Aata,1,13.51
+6697,Safed Matar Dal,4,2.51
+6709,Madhur Gold Maida,4,23.71
+6710,Madhur Gold Maida,4,136.87
+6711,Madhur Gold Maida,4,31.13
+6715,Normal Sugar,2,4.39
+6722,Madhur Gold Maida,4,6.36
+6722,Ruchi Gold Palm Pouch(1L),4,15.7
+6724,Prakash Aata,2,4.2
+6725,Masodha Double Filter Sugar,4,5.39
+6740,Shreshtha Aata,1,24.32
+6748,Kezar Aata,1,36.33
+6748,Kezar Maida,1,21.66
+6748,Ruchi Gold Palm Pouch(1L),1,39.81
+6759,Normal Sugar,1,17.41
+6759,Shreshtha Aata,1,10.35
+6769,Shreshtha Aata,1,17.79
+6795,Masodha Double Filter Sugar,4,31.28
+6812,DCM Double Filter Sugar,2,10.79
+6814,Bawarchi Vanaspati Pouch 1ltr,2,7.32
+6814,DCM Double Filter Sugar,2,12.75
+6814,Prakash Maida,2,5.21
+6814,Soyum Soya (15Lit),2,5.58
+6815,Madhur Gold Maida,4,160.3
+6852,Shreshtha Aata,1,1.43
+6857,Ruchi Gold Palm Pouch(1L),3,93.4
+6859,Shreshtha Aata,1,3.84
+6861,Bail Kolhu Pouch,2,10.03
+6861,Kings Soya Pouch,2,6.07
+6861,Normal Sugar,2,4.21
+6864,Bail Kolhu Pouch,1,1.37
+6864,Kezar Aata,1,7.88
+6864,Normal Sugar,1,1.49
+6864,Shreshtha Aata,1,12.14
+6864,Tata Salt Pkt(1Kg),1,2.3
+6865,Matar,1,2.95
+6865,Rice Deepak Resort basmati,1,20.91
+6865,Shreshtha Aata,1,14.57
+6874,Fortune Soya Pouch(1L),3,45.61
+6886,Masodha Double Filter Sugar,4,4.5
+6897,Shreshtha Aata,1,1.69
+6898,DCM Double Filter Sugar,1,6.46
+6898,Shreshtha Aata,1,4.17
+6900,Kezar Aata,1,2.33
+6900,Kezar Maida,1,8.34
+6900,Normal Sugar,1,2.23
+6900,Raag Gold Palm Pouch,1,17.29
+6900,Ruchi Gold Palm Pouch(1L),1,20.53
+6900,Swastik maida,1,4.73
+6903,Shreshtha Aata,1,1.32
+6906,Shreshtha Aata,1,2.78
+6928,Shreshtha Aata,1,5.81
+6930,Normal Sugar,2,4.64
+6930,Prakash Aata,2,9.78
+6948,Bail Kolhu Pouch,2,3.03
+6948,Prakash Aata,2,11.06
+6949,Double Filter Sugar,3,446.14
+6949,Mahalaxmi Soya tin (15 kg),3,14.82
+6953,Shreshtha Aata,1,2.01
+6965,SAPNA GOLD MAIDA,4,19.03
+6970,Ruchi Gold Palm Pouch(1L),4,10.58
+6977,Shreshtha Aata,1,10.59
+6987,Aashirwad Chakki Atta (5kg),3,69.89
+6995,Fortune Soya Pouch(1L),3,24.25
+6995,Nature Fresh Soya Tin(15L),3,24.33
+6995,Ruchi Gold Palm Pouch(1L),3,74.32
+7021,Normal Sugar,1,7.58
+7021,Soyum Soya Tin(15L) V,1,3.99
+7080,Soyum Soya Pouch,1,4.68
+7114,Nature Fresh Soya Tin(15Kg),3,7.49
+7127,Ruchi Gold Palm Pouch(1L),3,6.33
+7144,Normal Sugar,5,2.27
+7244,Tata Salt Pkt(1Kg),1,12.31
+7290,Kingfisher Arhar Dal,4,2.73
+7290,SAPNA GOLD AATA,4,5.61
+7333,Shreshtha Aata,1,9.7
+7340,Fortune Soya Pouch(1L),4,4.52
+7340,Madhur Gold Maida,4,7.82
+7340,Masodha Double Filter Sugar,4,35.77
+7340,Ruchi Gold Palm Pouch(1L),4,8.32
+7352,Kezar Aata,1,0.96
+7352,Kezar Maida,1,3.37
+7365,Normal Sugar,1,2.25
+7379,Aashirwad Chakki Atta (10kg),3,7.47
+7379,Aashirwad Chakki Atta (5kg),3,4.26
+7379,Oil Ruchi Gold Palm Pouch (770Gm),3,13.71
+7391,Shreshtha Aata,1,6.81
+7396,Kezar Maida,5,12.32
+7397,Hum Tum Rice,4,14.59
+7397,Rasoi Aata,4,0.0
+7397,Ruchi Gold Palm Pouch(1L),4,43.78
+7397,SAPNA GOLD AATA,4,9.12
+7397,Tiger Arhar Dal,4,0.0
+7421,SAPNA GOLD AATA,4,5.18
+7421,SAPNA GOLD MAIDA,4,9.54
+7430,Dalmia Double Filter Sugar,5,3.46
+7430,Kezar Maida,5,5.61
+7430,Kings Soya Pouch,5,4.52
+7433,Dalmia Double Filter Sugar,5,1.83
+7436,Aashirwad Chakki Atta (10kg),3,8.49
+7436,Aashirwad Chakki Atta (5kg),3,3.95
+7443,Prakash Maida,1,7.42
+7460,Nature Fresh Soya Tin(15L),3,1.62
+7476,Madhur Gold Maida,4,62.08
+7476,Normal Sugar,4,8.94
+7485,Chana Dal,1,15.63
+7485,Normal Sugar,1,4.98
+7485,Red Malka Masoor,1,4.5
+7485,Soyum Soya Pouch,1,10.29
+7485,Steam Rice,1,6.08
+7485,Tata Salt Pkt(1Kg),1,2.79
+7487,Prakash Aata,2,20.45
+7538,Kings Soya Pouch,5,7.16
+7547,Madhur Gold Maida,4,1.8
+7553,Prakash Aata,1,9.72
+7569,Ashok Kitchen King Masala Pkt(100gm),1,8.4
+7569,Hari Patti Selha Rice,1,7.2
+7569,Mahakosh Soya Oil Pouch(1L),1,13.54
+7570,Shreshtha Aata,1,7.29
+7577,Ruchi Gold Palm Pouch(1L),6,4.6
+7586,Adani Patla Besan,2,4.84
+7586,Nepali Soya,2,8.97
+7591,Ruchi Gold Palm Pouch(1L),6,10.21
+7610,Nature Fresh Soya Tin(15L),6,5.01
+7610,Vibhor Soya Pouch(1L),6,2.52
+7614,Oil Ruchi Gold Palm Pouch (770Gm),3,31.73
+7623,Normal Sugar,5,45.71
+7626,Nature Fresh Soya Tin(15L),6,4.36
+7626,Rajdhani Mota Besan,6,10.61
+7631,DCM Double Filter Sugar,6,24.55
+7631,Deepak Maida,6,13.65
+7631,Nature Fresh Soya Tin(15L),6,20.25
+7631,Rajdhani Barik Besan,6,5.23
+7631,Rajdhani Mota Besan,6,16.18
+7631,Sk Maida,6,58.95
+7639,Ruchi Gold Palm Pouch(1L),6,9.05
+7662,Madhur Gold Maida,4,13.58
+7666,Double Chabhi Rice,6,6.21
+7666,Vibhor Soya Pouch(1L),6,4.95
+7670,DCM Double Filter Sugar,6,2.89
+7670,Nature Fresh Soya Tin(15L),6,3.69
+7674,Madhur Gold Maida,4,5.59
+7674,Normal Sugar,4,2.89
+7676,Nature Fresh Soya Tin(15L),6,2.01
+7691,Ruchi Gold Palm Pouch(1L),6,19.88
+7706,Deepak Aata,6,4.96
+7706,Ruchi Gold Palm Pouch(1L),6,2.11
+7709,Deepak Maida,6,4.24
+7709,Ruchi Gold Palm Pouch(1L),6,4.23
+7713,Nourish Sunflower Pouch,2,3.99
+7731,Double Chabhi Rice,6,5.0
+7731,Vibhor Soya Pouch(1L),6,7.84
+7749,Ruchi Gold Palm Pouch(1L),6,5.96
+7750,Bail Kolhu Pouch,2,10.24
+7750,Soyum Soya (15Lit),2,7.09
+7757,Madhur Gold Maida,4,19.26
+7757,Normal Sugar,4,2.35
+7772,Kezar Aata,2,5.08
+7772,Nepali Soya Pouch,2,10.53
+7818,Kings Soya Pouch,5,5.22
+7820,Ruchi Gold Palm Pouch(1L),3,2.15
+7820,Shri Ram maida (50kg),3,13.32
+7821,Anchal Vanaspati Ghee Pouch,3,9.25
+7821,Nature Fresh Soya Tin(15L),3,5.9
+7837,Arrarot,1,2.75
+7837,Matar,1,56.76
+7837,Raag Gold Palm Pouch,1,10.25
+7837,Ruchi Gold Palm Pouch(1L),1,4.08
+7837,Shreshtha Aata,1,8.04
+7843,DCM Double Filter Sugar,1,2.58
+7843,Prakash Maida,1,7.12
+7858,Deepak Aata,6,5.26
+7858,NR Atta,6,6.3
+7858,Nature Fresh Soya Tin(15L),6,2.18
+7863,Normal Sugar,4,19.61
+7872,NR Atta,6,13.76
+7872,Parivar Pasand Chakki Aata (50kg),6,1.54
+7872,Ruchi Gold Palm Pouch(1L),6,5.38
+7872,Safal Atta,6,4.82
+7896,Aashirwad Chakki Atta (5kg),3,5.19
+7914,Normal Sugar,6,4.48
+7923,Oil Ruchi Gold Palm Pouch (770Gm),3,8.63
+7923,Parivar Pasand Chakki Aata (50kg),3,7.69
+7923,Rath Vanaspati Ghee Pouch(1L),3,2.86
+7923,Ruchi Gold Palm Pouch(1L),3,16.0
+7926,Anchal Vanaspati Ghee Pouch,3,3.41
+7926,Deepak Maida,3,9.5
+7926,Mahakosh Soya Oil Pouch(1L),3,1.99
+7926,Oil Ruchi Gold Palm Pouch (770Gm),3,10.1
+7926,Parivar Mustard Bottle(1L),3,9.09
+7926,Parivar Mustard Bottle(2L),3,1.68
+7926,Ruchi Gold Palm Pouch(1L),3,8.71
+7926,Shri Ram maida (50kg),3,9.37
+7926,Single Filter Sugar,3,9.2
+7926,Vibhor Soya Pouch(1L),3,9.64
+7950,Mahakosh Soya Oil Pouch(1L),6,2.72
+7950,Vibhor Soya Pouch(1L),6,24.55
+7964,NR Atta,6,17.24
+7992,HP Atta,6,45.29
+7992,Shudh Oil,6,7.35
+7993,Ruchi Gold Palm Pouch(1L),4,8.29
+8007,Aashirwad Chakki Atta (10kg),3,2.8
+8019,NR Atta,6,8.82
+8019,Ruchi Gold Palm Pouch(1L),6,6.97
+8023,NR Atta,6,8.27
+8023,Nature Fresh Soya Tin(15L),6,2.41
+8041,Ruchi Gold Palm Pouch(1L),6,1.04
+8058,Heritage XXXL,6,11.63
+8058,Ruchi Gold Palm Pouch(1L),6,22.23
+8073,Aashirwad Chakki Atta (10kg),3,2.51
+8073,Aashirwad Chakki Atta (5kg),3,6.34
+8073,Mahakosh Soya Oil Pouch(1L),3,8.22
+8078,Aashirwad Chakki Atta (10kg),3,2.54
+8078,Aashirwad Chakki Atta (5kg),3,2.42
+8097,Single Filter Sugar,3,5.71
+8136,Ruchi Gold Palm Pouch(1L),6,6.92
+8161,Nepali Soya Pouch,4,3.39
+8161,SAPNA GOLD MAIDA,4,10.65
+8164,Ruchi Gold Palm Pouch(1L),6,18.21
+8185,Gauri Old Rice,6,4.34
+8202,Madhur Gold Maida,4,8.09
+8211,Nature Fresh Soya Tin(15L),6,5.33
+8213,Ruchi Gold Palm Pouch(1L),6,2.31
+8226,Sk Maida,6,18.59
+8378,Shreshtha Aata,1,8.8
+8402,Normal Sugar,6,12.48
+8403,Prakash Aata,2,5.1
+8437,Masodha Double Filter Sugar,4,8.39
+8477,NR Atta,6,1.62
+8477,Ruchi Gold Palm Pouch(1L),6,2.49
+8491,Double Chabhi Rice,6,4.62
+8491,Nature Fresh Soya Tin(15L),6,3.65
+8516,Bawarchi Vanaspati Pouch 1ltr,2,10.36
+8516,Prakash Maida,2,7.48
+8516,Soyum Soya (15Lit),2,9.77
+8520,Prakash Maida,1,6.77
+8527,NR Atta,6,4.94
+8527,Ruchi Gold Palm Pouch(1L),6,1.59
+8542,Nature Fresh Soya Tin(15L),6,7.52
+8558,Ruchi Gold Palm Pouch(1L),6,8.45
+8587,Ruchi Gold Palm Pouch(1L),6,9.24
+8606,Nature Fresh Soya Tin(15L),6,56.42
+8607,Ruchi Gold Palm Pouch(1L),6,10.57
+8726,Madhur Gold Maida,4,1.94
+8745,Deepak Maida,3,4.56
+8809,Ruchi Gold Palm Pouch(1L),6,6.73
+8935,Deepak Aata,3,27.07
+8935,Single Filter Sugar,3,7.82
+9014,Deepak Maida,3,308.33
