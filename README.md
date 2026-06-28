@@ -1,3 +1,5 @@
+> **Note:** The original implementation of this project has been preserved under `version1_archive/`. The current repository root contains a complete redesign with a new modeling pipeline and improved forecasting methodology.
+
 # Predictive Framework for B2B Grocery Supply Chain Optimization
 ### UNORG — Demand Forecasting & Inventory Planning System
 
